@@ -3,7 +3,6 @@ layout: post
 title: Project Graph | Making Graphs
 categories: ["Project Graph"]
 tags: [abstract, graphs, story-rich]
-date: 2018-11-23
 ---
 
 <h1 id="creating-a-mess">Creating a Mess</h1>

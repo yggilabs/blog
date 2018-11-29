@@ -3,7 +3,6 @@ layout: post
 title: Project Graph | Motivation
 categories: ["Project Graph"]
 tags: [abstract, graphs, story-rich]
-date: 2018-11-18
 ---
 
 <h1 id="motivation">Motivation</h1>

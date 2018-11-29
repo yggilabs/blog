@@ -3,8 +3,8 @@ layout: post
 title: "Inspired Inspiration"
 categories: [Rules Supplements]
 tags: [dnd, 5e, inspiration]
-
 ---
+
 # Inspired Inspiration: Better Character Engagement by Cutting Facets
 
 ## A Case for Cutting Facets
@@ -43,14 +43,14 @@ If you want give your players a mechanical reason to become more involved in the
 
 #### Significant Change
 
-A significant change may be either a mechanical or narrative change with a substantial impact on your character. 
+A significant change may be either a mechanical or narrative change with a substantial impact on your character.
 
 > #### Choosing to Change
 >
 > These are some changes you may consider significant enough to gain a facet for. Though, the decision is ultimately up to your group.
 >  
 > * gaining a class feature
-> * learning a new feat 
+> * learning a new feat
 > * gaining a racial feature
 > * receiving the boon of a god
 > * stealing the bounty of a dragon's horde
@@ -62,11 +62,11 @@ A significant change may be either a mechanical or narrative change with a subst
 A facet is simply a word or short phrase which represents the fictional experience of your character.
 
 > #### Choosing a Facet
-> 
-> When you gain a facet, the player and DM may create a new facet that is appropriate to the character, the setting, and the significant change. 
-> 
+>
+> When you gain a facet, the player and DM may create a new facet that is appropriate to the character, the setting, and the significant change.
+>
 > Try to keep your facets distinct from each other. If two facets seem similar, Think about what makes them unique and highlight that difference.
- 
+
 See Rundown, [Gaining Facets](#gaining-facets-1)
 
 
@@ -80,9 +80,9 @@ See Rundown, [Gaining Facets](#gaining-facets-1)
  Describe how one of the character’s facets manifests in the situation. The DM will offer a [complication](#choosing-a-complication). If the player agrees, the facet is invoked. Each facet may only be invoked in this way once per session.
 
 > #### Choosing a Complication
-> 
+>
 > The most basic complication is to give the triggering roll disadvantage. This is only applicable is the roll doesn’t already have disadvantage. Otherwise, You may offer a cost to the roll. Costs are always paid regardless of the outcome of a roll.
- 
+
 See Rundown, [Using Facets](#using-facets-1)
 
 
@@ -90,7 +90,7 @@ See Rundown, [Using Facets](#using-facets-1)
 
 #### Facets for everything
 
-Anything can have facets, not just player characters. Non-player characters, groups of characters, even environments can all have facets if you want. 
+Anything can have facets, not just player characters. Non-player characters, groups of characters, even environments can all have facets if you want.
 
 Perhaps, you imagine elves in your setting are quick-tempered. Give elves the quick-tempered facet. Alternatively, ask a player who has created or otherwise thought about elves for their ideas. When you or a player create a new elf character give them the quick-tempered facet. Of course, not all elves are quick-tempered. If you want an elf that is level-headed, read the section Ignoring Facets.
 
@@ -246,7 +246,7 @@ In earlier examples, we looked at play examples including two characters, Steve 
 
 **Added**
 * hyperlinks to rundowns in appropriate explanation sections
-* hyperlinks to relevant rules when they come up 
+* hyperlinks to relevant rules when they come up
 * new section choosing to change
 
 **Removed**
@@ -255,7 +255,3 @@ In earlier examples, we looked at play examples including two characters, Steve 
 ### [1.0.0] - 2018-11-16
 **Updated**
 * reformatted from homebrewery.org to more generic markdown
-
-
-
-
