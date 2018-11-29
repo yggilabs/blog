@@ -26,19 +26,7 @@ tags: [abstract, graphs, math]
 </ul>
 </li>
 </ol>
-<h2 id="new-jargon">New Jargon</h2>
-<dl>
-<dt>shared imagination space</dt>
-<dd>The continuous interpolation of the context</dd>
-<dt>context</dt>
-<dd>The discrete state of the shared imagination space.</dd>
-<dt>natural language</dt>
-<dd>A thing that alters the shared imagination space.</dd>
-<dt>move</dt>
-<dd>A thing that alters the context.</dd>
-</dl>
-<h2 id="domains">Domains</h2>
-<h3 id="the-talking-domain">The Talking Domain</h3>
+<h2 id="the-talking-domain">The Talking Domain</h2>
 <p>This is the part of a game when players talk to each other without explicitly engaging mechanics of the game.</p>
 <p><strong>Assignment</strong></p>
 <ul>
@@ -66,7 +54,7 @@ tags: [abstract, graphs, math]
 <p><strong>Application</strong></p>
 <p><span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>f</mi></mrow><annotation encoding="application/x-tex">f</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.88888em; vertical-align: -0.19444em;"></span><span class="mord mathit" style="margin-right: 0.10764em;">f</span></span></span></span></span> takes a <em>shared imagination space</em> and prompts a response<br>
 <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>g</mi></mrow><annotation encoding="application/x-tex">g</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.625em; vertical-align: -0.19444em;"></span><span class="mord mathit" style="margin-right: 0.03588em;">g</span></span></span></span></span> takes the <em>natural language</em> of that response and changes the <em>shared imagination space</em></p>
-<h3 id="the-rules-domain">The Rules Domain</h3>
+<h2 id="the-rules-domain">The Rules Domain</h2>
 <p>This is the part of the game that mechanically defines interaction with the elements of the game.</p>
 <p><strong>Assignment</strong></p>
 <ul>
@@ -94,8 +82,8 @@ tags: [abstract, graphs, math]
 <p><strong>Application</strong></p>
 <p><span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>f</mi></mrow><annotation encoding="application/x-tex">f</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.88888em; vertical-align: -0.19444em;"></span><span class="mord mathit" style="margin-right: 0.10764em;">f</span></span></span></span></span> takes a <em>context</em> and prompts a <em>move</em><br>
 <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>g</mi></mrow><annotation encoding="application/x-tex">g</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.625em; vertical-align: -0.19444em;"></span><span class="mord mathit" style="margin-right: 0.03588em;">g</span></span></span></span></span> applies a <em>move</em> to create a new <em>context</em></p>
-<h3 id="changing-domains">Changing Domains</h3>
-<p><em>shared imagination space</em> <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>↦</mo></mrow><annotation encoding="application/x-tex">\mapsto</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.522em; vertical-align: -0.011em;"></span><span class="mrel">↦</span></span></span></span></span> <em>context</em></p>
+<h2 id="changing-domains">Changing Domains</h2>
+<h3 id="shared-imagination-space-mapsto-context">shared imagination space <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>↦</mo></mrow><annotation encoding="application/x-tex">\mapsto</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.522em; vertical-align: -0.011em;"></span><span class="mrel">↦</span></span></span></span></span> <em>context</em></h3>
 <p>This generates specific rules to fit the talking</p>
 <p><strong>Assignment</strong></p>
 <ul>
@@ -118,7 +106,7 @@ tags: [abstract, graphs, math]
 <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>f</mi></mrow><annotation encoding="application/x-tex">f</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.88888em; vertical-align: -0.19444em;"></span><span class="mord mathit" style="margin-right: 0.10764em;">f</span></span></span></span></span>:  <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>S</mi><mo>↦</mo><mi>C</mi>&amp;ThickSpace;<mo>⟹</mo>&amp;ThickSpace;<mi>f</mi><mo>(</mo><mi>S</mi><mo>)</mo><mo>=</mo><mi>C</mi></mrow><annotation encoding="application/x-tex">S \mapsto C \implies f(S) = C</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.69433em; vertical-align: -0.011em;"></span><span class="mord mathit" style="margin-right: 0.05764em;">S</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">↦</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 0.70733em; vertical-align: -0.024em;"></span><span class="mord mathit" style="margin-right: 0.07153em;">C</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">⟹</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 1em; vertical-align: -0.25em;"></span><span class="mord mathit" style="margin-right: 0.10764em;">f</span><span class="mopen">(</span><span class="mord mathit" style="margin-right: 0.05764em;">S</span><span class="mclose">)</span><span class="mspace" style="margin-right: 0.277778em;"></span><span class="mrel">=</span><span class="mspace" style="margin-right: 0.277778em;"></span></span><span class="base"><span class="strut" style="height: 0.68333em; vertical-align: 0em;"></span><span class="mord mathit" style="margin-right: 0.07153em;">C</span></span></span></span></span></p>
 <p><strong>Application</strong></p>
 <p><span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>f</mi></mrow><annotation encoding="application/x-tex">f</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.88888em; vertical-align: -0.19444em;"></span><span class="mord mathit" style="margin-right: 0.10764em;">f</span></span></span></span></span> takes a <em>shared imagination space</em> and produces a <em>Context</em></p>
-<h3 id="context-mapsto-shared-imagination-space"><em>context</em> <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>↦</mo></mrow><annotation encoding="application/x-tex">\mapsto</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.522em; vertical-align: -0.011em;"></span><span class="mrel">↦</span></span></span></span></span> <em>shared imagination space</em></h3>
+<h3 id="context-mapsto-shared-imagination-space">context <span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mo>↦</mo></mrow><annotation encoding="application/x-tex">\mapsto</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.522em; vertical-align: -0.011em;"></span><span class="mrel">↦</span></span></span></span></span> shared imagination space</h3>
 <p>This generates specific talking to fit the rules</p>
 <p><strong>Assignment</strong></p>
 <ul>
@@ -145,7 +133,7 @@ tags: [abstract, graphs, math]
 <p>Looking at the math for <a href="#the-talking-domain">The Talking Domain</a> and <a href="#the-rules-domain">The Rules Domain</a> we can see that they are almost identical. A <em>Shared Imagination Space</em> and a <em>Context</em> are really two sides of the same coin. The <em>Shared Imagination Space</em> is what exists as collective knowledge in the minds of the players. The <em>context</em> is the mechanical interface to that space.</p>
 <p>So why bother using math? One reason is just to better understand how we play games. We can look at how we already play games and describe what is going on in a new way. The other reason is for creating new games. We can use these equations to develop new sets of rules.</p>
 <p>A major advantage to lambda calculus is it applications in functional programming. This programming paradigm has become much more common in recent years due to how easy it is to created highly distributed systems. This has huge ramifications in how we can conceptualize roleplaying games. Perhaps this will even give us tools to make distributed roleplaying experiences.</p>
-<h2 id="think-about-it">Think about it</h2>
+<h2 id="think-about-it">Think About It</h2>
 <ol>
 <li>For each set of functions, what does each function do in words?</li>
 <li>Are there any situations not covered by these functions? Can we express these situations in new functions?</li>
