@@ -38,7 +38,6 @@ logo: /images/icon.svg
 #   baidu: 1234
 # lang: # default: en_US
 
-baseurl: /games
 permalink: none
 analytics: false # url parameters are acting wierd
 collections:
