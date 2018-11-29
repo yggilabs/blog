@@ -3,7 +3,7 @@ layout: post
 title: Project Graph | Choosing a Domain
 categories: [Project Graph]
 tags: [abstract,graphs,math]
-
+date: 2018-11-28
 ---
 
 <h1 id="choosing-a-domain-not-the-cleric-kind">Choosing a domain (not the cleric kind)</h1>
