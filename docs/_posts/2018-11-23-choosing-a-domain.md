@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Project Graph | Choosing a Domain
-categories: Project Graph
-tags: [abstract,graphs,math]
+title: "#2 Choosing a Domain"
+categories: [Project Graph]
+tags: [abstract, graphs, math]
 
 ---
 
