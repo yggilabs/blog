@@ -6,7 +6,7 @@ tags: [abstract, graphs, math]
 
 ---
 
-<h1 id="choosing-a-domain">#2  Choosing a Domain</h1>
+<h1 id="choosing-a-domain">#2 Choosing a Domain</h1>
 <p>This is the second article in this series and it’s kind of a detour. I wanted to introduce a few methods for working on problems later on. This is very concept heavy so it may not be that interesting on it’s own; however, I will be referencing this text in later articles.</p>
 <p>When I say domain, I don’t mean the cleric kind. We are about to get into some math here; namely, lambda calculus. It sounds scary but, it’s actually very simple. There are really only three steps to all of our problems here.</p>
 <ol>
