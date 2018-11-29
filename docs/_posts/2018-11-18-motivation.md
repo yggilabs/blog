@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Graph | Motivation
+title: Motivation
 categories: ["Project Graph"]
 tags: [abstract, graphs, story-rich]
 ---

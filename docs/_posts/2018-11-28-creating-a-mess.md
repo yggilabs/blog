@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Project Graph | Making Graphs
+title: Making a Mess
 categories: ["Project Graph"]
 tags: [abstract, graphs, story-rich]
 ---
