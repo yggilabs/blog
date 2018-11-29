@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Project Graph | Choosing a Domain
-categories: Project Graph
+categories: [Project Graph]
 tags: [abstract,graphs,math]
 
 ---
@@ -139,4 +139,3 @@ tags: [abstract,graphs,math]
 <p><strong>Application</strong></p>
 <p><span class="katex--inline"><span class="katex"><span class="katex-mathml"><math><semantics><mrow><mi>f</mi></mrow><annotation encoding="application/x-tex">f</annotation></semantics></math></span><span class="katex-html" aria-hidden="true"><span class="base"><span class="strut" style="height: 0.88888em; vertical-align: -0.19444em;"></span><span class="mord mathit" style="margin-right: 0.10764em;">f</span></span></span></span></span> takes a <em>context</em> and produces a <em>shared imagination space</em></p>
 <p>{% include jargon.html %}</p>
-
