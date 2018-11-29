@@ -10,9 +10,9 @@
       "sizes": "512x512"
     }
   ],
-  "start_url": "{{ site.baseurl }}/?source=pwa",
+  "start_url": "{{ site.github.baseurl }}/?source=pwa",
   "background_color": "{{site.theme_color}}",
   "display": "standalone",
-  "scope": "{{ site.baseurl }}/",
+  "scope": "{{ site.github.baseurl }}/",
   "theme_color": "{{site.theme_color}}"
 }
