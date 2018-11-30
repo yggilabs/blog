@@ -4,10 +4,10 @@ title: Home
 ---
 
 <article class="site__content">
-  {% include introduction.html %}
+  {% include intro.html %}
   {% for category in site.categories %}
   <h2>{{ category[0] }}</h2>
-    {% for post in category[1] %}    
+    {% for post in category[1] %}
     <h3><a href="{% unless post.preview %}{{ site.github.baseurl }}{{ post.url }}{% endunless %}">{{ post.title }}</a></h3>
     <ul class="tags">
       {% for tag in post.tags %}
