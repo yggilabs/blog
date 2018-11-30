@@ -1,5 +1,3 @@
----
----
 # Welcome
 This is the home of Yggi Games. Here you will find the results of tinkering with, hacking and creating various games. Some of what you find here may even be tested. Enjoy!
 
