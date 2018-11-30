@@ -4,7 +4,10 @@ title: Home
 ---
 
 <article class="site__content">
-  {% include intro.html %}
+  {% capture intro_to_markdown %}
+    {% include intro.md %}
+  {% endcapture %}}
+  {{ intro_to_markdown | markdownify }}
   {% for category in site.categories %}
   <h2>{{ category[0] }}</h2>
     {% for post in category[1] %}
