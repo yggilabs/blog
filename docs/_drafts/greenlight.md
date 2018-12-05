@@ -8,7 +8,7 @@ tags: [story-rich, gm-less, television]
 ---
 
 <h1 id="about">About</h1>
-<p>Greenlight is a role-playing game in which you will direct, produce, write and star in your own television series. Each player will create a character that is the star of their own story-line. Together, you will explore the story of an entire season in a single session.</p>
+<p>Greenlight is a role-playing game in which you will direct, produce, write and star in your own television series. Each player will create a character that is the star of their own story-line. Together, you will explore the story of an entire television season in a single session.</p>
 <h1 id="rules">Rules</h1>
 <h2 id="the-basics">The Basics</h2>
 <h3 id="what-youll-need">What you’ll Need</h3>
@@ -21,6 +21,9 @@ tags: [story-rich, gm-less, television]
 <h3 id="action-roll">Action Roll</h3>
 <p>When a player character faces a challenging situation, you may be asked to make an action roll to resolve the outcome. Unlike some games, your character always does the thing it set out to do; however, the cost is still uncertain.</p>
 <p>When making an action roll, the player rolls the number of d6 indicated and chooses any die as the result. If the result is 4-6, it’s a success. If the result is 1-3, it’s a failure.</p>
+<blockquote>
+<p>Pro Tip: No dice? coins work too! Heads is success, tails is failure.</p>
+</blockquote>
 <h3 id="starting-the-game">Starting the Game</h3>
 <p>If this is your first session or, you are beginning a new series. Follow the steps in <a href="#the-season">The Season</a>.</p>
 <h2 id="the-season">The Season</h2>
@@ -44,16 +47,23 @@ tags: [story-rich, gm-less, television]
 <li><strong>The Title</strong> — Together, title the show.</li>
 <li><strong>The Break</strong> — Everyone, do <a href="#the-break.">The Break</a></li>
 </ol>
+<p><img src="https://yggilabs.github.io/blog/images/examples/pitch.JPG" alt="example pitch"></p>
+<h3 id="the-pallet">The Pallet</h3>
+<p><img src="https://yggilabs.github.io/blog/images/examples/actions.JPG" alt="example actions"></p>
+<p><img src="https://yggilabs.github.io/blog/images/examples/plans.JPG" alt="example plans"></p>
 <h3 id="the-focus">The Focus</h3>
 <p>Grab a blank card as <em>The Focus</em>. Write down a topic that you want everyone to explore. place it in the middle of the table.</p>
+<p><img src="https://yggilabs.github.io/blog/images/examples/focus.JPG" alt="example focus"></p>
 <h3 id="the-snag">The Snag</h3>
 <p>A snag is a complication associated with a focus. Keep 'em short, one word — a few max.</p>
+<p><img src="https://yggilabs.github.io/blog/images/examples/snag.JPG" alt="example snag"></p>
 <h3 id="the-character">The Character</h3>
 <ol>
 <li>Grab a blank card as <em>The Character</em>, name it and place on your left. This is the begging of a pile know as <em>The Before</em>.</li>
 <li>Give <em>The Character</em> a short description.</li>
 <li>Grab a blank card as <em>The Agenda</em>, write a goal on it and place upside-down and sideways on your right. This is the begging of a pile known as <em>The After</em>.</li>
 </ol>
+<p><img src="https://yggilabs.github.io/blog/images/examples/character.JPG" alt="example character"></p>
 <h3 id="the-trailer">The Trailer</h3>
 <p>Create the trailer. Imagine you must create a 15 second trailer for the show.</p>
 <p>Take turns, writing down things that are in the trailer or things that got cut from the trailer.</p>
@@ -74,7 +84,7 @@ tags: [story-rich, gm-less, television]
 <li><em>(director)</em> <strong>The Position</strong> — Make an <a href="#action-roll">Action Roll</a> (1d6). If <em>The Action</em> is one of your highlighted actions, You may establish how the action helps or hinders your chances to instead make an <a href="#action-roll">Action Roll</a> (2d6).
 <ul>
 <li><em><strong>success</strong></em> — <em>The Position</em> is <em>Risky</em> when <a href="#the-scene">The Scene</a> starts</li>
-<li><em><strong>failure</strong></em> — <em>The Position</em> is <em>Desperate</em> when <a href="#the-scene">The Scene</a> starts. Turn <em>The Scene</em> sideways.</li>
+<li><em><strong>failure</strong></em> — <em>The Position</em> is <em>Desperate</em> when <a href="#the-scene">The Scene</a> starts. Turn <em>The Scene</em> <a href="#when-things-go-sideways">sideways</a>.</li>
 </ul>
 </li>
 <li><em>(director)</em> <strong>The Scene</strong> — Play out <a href="#the-scene">The Scene</a>.</li>
@@ -83,21 +93,30 @@ tags: [story-rich, gm-less, television]
 </ol>
 <h3 id="the-scene">The Scene</h3>
 <ol>
-<li><strong>The Price</strong> — If <em>The Position</em> is <em>Risky</em>, what are you about to lose? If <em>The Position</em> is <em>Desperate</em>, what did you already lose?</li>
-<li><strong>The Slug</strong> — Provide a general location and/or time. Record on <em>The Scene</em>.</li>
+<li><strong>The Cost</strong> — If <em>The Position</em> is <em>Risky</em>, what are you about to lose? If <em>The Position</em> is <em>Desperate</em>, what did you already lose?</li>
+<li><strong>The Location</strong> — Provide a general location and/or time. Record on <em>The Scene</em>.</li>
 <li><strong>The Shot</strong> — Describe what the camera sees in the moments before the scene unfolds.</li>
 <li><strong>The Cast</strong> — Assemble <em>The Cast</em>. Assign each role to a Player. Players may have more than one role. Players should always play their own character. Each player ultimately has authority over their own character’s actions.</li>
 <li><strong>The Action</strong> — find out what happens.</li>
 </ol>
+<p><img src="https://yggilabs.github.io/blog/images/examples/scene.JPG" alt="example scene"></p>
 <h3 id="the-cast">The Cast</h3>
 <p>If you need a character that doesn’t already belong to player, you have two options.</p>
 <ul>
 <li><strong>make one</strong> — Grab an index card write down a name and a quick description. Set that card down in the middle for everyone to see. Something like <em>Doris, The elderly bank-teller</em> works fine.</li>
 <li><strong>take one</strong> — Take a character from those previously made. Need an innocent bystander during your convenience store robbery? Just put <em>Doris, The elderly bank-teller</em> in harm’s way.</li>
 </ul>
+<p><img src="https://yggilabs.github.io/blog/images/examples/cast.JPG" alt="example cast"></p>
+<h3 id="the-location">The Location</h3>
+<p>If you need a location, you have two options.</p>
+<ul>
+<li><strong>make one</strong> — Grab an index card write down a name and a quick description. Set that card down in the middle for everyone to see. Something like <em>Poorly-managed Convenience Store</em> works fine.</li>
+<li><strong>take one</strong> — Take a location from those previously made. Need a place to rob? Just visit the <em>Poorly-managed Convenience Store</em>.</li>
+</ul>
+<p><img src="https://yggilabs.github.io/blog/images/examples/location.JPG" alt="example location"></p>
 <h2 id="the-break">The Break</h2>
 <ol>
-<li><strong>Take Five</strong> — Everyone, take a five minute break.</li>
+<li><strong>Take Five</strong> — Everyone, <a href="#when-you-take-five">take five</a>.</li>
 <li><strong>The Crew</strong> — Together, Do <em>The Crew</em> if you haven’t; otherwise, shuffle roles.</li>
 <li><strong>The Hype</strong> — Each player, Do <em>The Hype</em> for ‘The Player’ on your right.</li>
 </ol>
@@ -152,17 +171,17 @@ tags: [story-rich, gm-less, television]
 <li><strong>Transport</strong> — Carry cargo or people through danger.  <em>Detail: The route and means.</em></li>
 </ul>
 <h2 id="guidance">Guidance</h2>
-<h3 id="honesty">Honesty</h3>
+<h3 id="when-you-have-a-plan">When you have a plan</h3>
 <p>Be honest about your plans with the other characters. It can be very tempting to try to setup a twist on your own. Resist that urge, let the other players in on your plans enough that they can help you get there.</p>
-<h3 id="when-things-go-sideways.">When things go sideways.</h3>
+<h3 id="when-things-go-sideways">When things go sideways</h3>
 <p>Sometimes you may be required to turn a card sideways. I use landscape as the normal orientation and, portrait as sideways. It doesn’t matter just pick one and be consistent in your group.</p>
 <h3 id="when-that-thing-happens-that-changes-everything">When that thing happens that changes everything</h3>
 <p>At some point in the story a thing happens, it changes everything! Or maybe it doesn’t… Or maybe its ripples are felt in subtle ways which we are not meant to understand. Sometimes the thing is the same thing for all the characters and sometimes the thing is a different thing.</p>
 <p>The point is, there is a thing which we don’t name and we don’t talk about that separates the story into two parts. The parts that happen before it from the parts that happen after it.  We call the before part of our story <em>The Before</em> and we represent it with a pile of cards in front of us and to the left. Likewise, We call the after part of our story <em>The After</em> and we represent it with a pile of cards in front of us and to the right.</p>
-<h3 id="when-you-take-five">When you <em>take five</em></h3>
-<p>You are going to work on <em>The Pilot</em> and you are going to create an awesome setup for a melodrama about a group of time-traveling android archaeologists in some kind of love dodecahedron. Then, the rules are going to tell you to <em>take 5</em> and you are going to want to ignore it. DON’T! Or do, I’m not your mom. The breaks are there for a reason. They will give your group time to use the bathroom or grab snacks without interrupting the flow of the game later on. They also gives you some time to turn things over in your own brain or lets you talk about things with another player outside the rules of the game.</p>
+<h3 id="when-you-take-five">When you take five</h3>
+<p>You are going to work on <em>The Pilot</em> and you are going to create an awesome setup for a melodrama about a group of time-traveling android archaeologists in some kind of love dodecahedron. Then, the rules are going to tell you to <em>take 5</em> and you are going to want to ignore it. DON’T! The breaks are there for a reason. They will give your group time to use the bathroom or grab snacks without interrupting the flow of the game later on. They also gives you some time to turn things over in your own brain or lets you talk about things with another player outside the rules of the game.</p>
 <h3 id="when-you-cant-agree">When you can’t agree</h3>
-<p>roll a die, go with it.</p>
+<p>Flip a coin, go with it.</p>
 <h3 id="when-things-dont-make-any-sense">When things don’t make any sense</h3>
 <p>This game takes some liberties with the linearity of time. As such, finalities such as death can lead to some awkward situations. Here are some ways to avoid the confusion which might be caused by reconciling disparate stories.</p>
 <ul>
