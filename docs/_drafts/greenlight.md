@@ -22,7 +22,7 @@ tags: [story-rich, gm-less, television]
 <p>When a player character faces a challenging situation, you may be asked to make an action roll to resolve the outcome. Unlike some games, your character always does the thing it set out to do; however, the cost is still uncertain.</p>
 <p>When making an action roll, the player rolls the number of d6 indicated and chooses any die as the result. If the result is 4-6, it’s a success. If the result is 1-3, it’s a failure.</p>
 <blockquote>
-<p>Pro Tip: No dice? coins work too! Heads is success, tails is failure.</p>
+<p>No dice? coins work too! Heads is success, tails is failure.</p>
 </blockquote>
 <h3 id="starting-the-game">Starting the Game</h3>
 <p>If this is your first session or, you are beginning a new series. Follow the steps in <a href="#the-season">The Season</a>.</p>
@@ -36,56 +36,56 @@ tags: [story-rich, gm-less, television]
 <li><em><strong>The Wrap</strong></em> — do <a href="#the-wrap">The Wrap</a>.</li>
 </ol>
 <h2 id="the-pitch">The Pitch</h2>
+<p>Grab a new card as <em>The Pitch</em>.</p>
 <ol>
-<li><strong>The Line</strong> —  Together, write a single line pitching the show.</li>
-<li><strong>The Pallet</strong> — Together, choose actions and plans using <a href="#the-pallet">The Pallet</a>. (use <a href="#lists">defaults</a>)</li>
-<li><strong>The Trailer</strong> — Together, create <a href="#the-trailer">The Trailer</a>.</li>
-<li><strong>The Focus</strong> — Each player, create a focus using <a href="#the-focus">The Focus</a>.</li>
-<li><strong>The Titles</strong> — Together, come up with the titles of the first and last episodes.</li>
-<li><strong>The Characters</strong> — Each player, create a character using <a href="#the-character">The Character</a>.</li>
-<li><strong>The Snags</strong> — Each player, create a snag for each focus using <a href="#the-snag">The Snag</a>.</li>
-<li><strong>The Title</strong> — Together, title the show.</li>
+<li><strong>The Line</strong> —  Together, create a single line pitching the show. Record on <em>The Pitch</em>.</li>
+<li><strong>The Pallet</strong> — Together, <a href="#creating-a-pallet">create a pallet</a>. (use <a href="#lists">defaults</a>)</li>
+<li><strong>The Trailer</strong> — Together, <a href="#creating-a-trailer">create a trailer</a>.</li>
+<li><strong>The Focus</strong> — Each player, <a href="#creating-a-focus">create a focus</a>.</li>
+<li><strong>The Titles</strong> — Together, come up with the titles of the first and last episodes. Record on <em>The Pitch</em>.</li>
+<li><strong>The Characters</strong> — Each player, <a href="#creating-a-character">create a character</a>.</li>
+<li><strong>The Snags</strong> — Each player, <a href="#creating-a-snag">create a snag</a> for each focus.</li>
+<li><strong>The Title</strong> — Together, title the show. Record on <em>The Pitch</em>.</li>
 <li><strong>The Break</strong> — Everyone, do <a href="#the-break.">The Break</a></li>
 </ol>
-<p><em>example pitch</em></p>
-<p><img src="https://yggilabs.github.io/blog/images/examples/pitch.JPG" alt="example pitch"></p>
-<h3 id="the-pallet">The Pallet</h3>
-<blockquote>
-<p>WIP — needs guidance. use <a href="#lists">defaults</a> if you are confused</p>
-<ul>
-<li># Actions 3-12</li>
-<li># plans 2-6</li>
-<li>Actions are characters’ tactics; the verbs</li>
-<li>Plans are characters’ strategies</li>
-<li>Plans are always missing a piece</li>
-</ul>
-</blockquote>
-<p><em>example actions</em></p>
-<p><img src="https://yggilabs.github.io/blog/images/examples/actions.JPG" alt="example actions"></p>
-<p><em>example plans</em></p>
-<p><img src="https://yggilabs.github.io/blog/images/examples/plans.JPG" alt="example plans"></p>
-<h3 id="the-focus">The Focus</h3>
-<p>Grab a blank card as <em>The Focus</em>. Write down a topic that you want everyone to explore. place it in the middle of the table.</p>
-<p><em>example focus</em></p>
-<p><img src="https://yggilabs.github.io/blog/images/examples/focus.JPG" alt="example focus"></p>
-<h3 id="the-snag">The Snag</h3>
-<p>A snag is a complication associated with a focus. Keep 'em short, one word — a few max.</p>
-<p><em>example snag</em></p>
-<p><img src="https://yggilabs.github.io/blog/images/examples/snag.JPG" alt="example snag"></p>
-<h3 id="the-character">The Character</h3>
+<p>See <a href="#example-pitch">example</a></p>
+<h3 id="creating-a-pallet">Creating a Pallet</h3>
+<p>Grab a new card as <em>Actions</em>. Label it.</p>
+<p>Grab a new card as <em>Plans</em>. Label it.</p>
+<p>If your group is new to the game or, looking for a set experience, use the actions and plans found <a href="#lists">here</a>. Record on <em>Actions</em> and <em>Plans</em> respectively.</p>
+<p>Otherwise, make your group’s own with the following rules</p>
+<h4 id="actions">Actions</h4>
+<p>These are the verbs of your story. Think about a problem a character might have and ask that character, “What do you do, <strong>right now</strong>?”</p>
+<p>Create three to twelve actions. Record on <em>Actions</em>.</p>
+<p>See <a href="#example-actions">example</a></p>
+<h4 id="plans">Plans</h4>
+<p>These are the events of your story. Think about a problem a character might have and ask that character, “What <strong>will</strong> you do?”</p>
+<p>For each plan, leave a blank spot that needs to be filled in later. This is the <em>Detail</em>.</p>
+<p>Create two to six plans. Record on <em>Plans</em>.</p>
+<p>See <a href="#example-plans">example</a></p>
+<h3 id="creating-a-focus">Creating a Focus</h3>
+<p>Grab a blank card.</p>
+<p>Write down a topic that you want everyone to explore, keep it to a few words or less. Place it near the middle of the table.</p>
+<p>See <a href="#example-focus">example</a></p>
+<h3 id="creating-a-snag">Creating a Snag</h3>
+<p>Grab a blank card.</p>
+<p>Write down a complication which may arise when exploring a specific focus, keep it to a few words or less. Place it next to that focus.</p>
+<p>See <a href="#example-snag">example</a></p>
+<h3 id="creating-a-character">Creating a Character</h3>
+<p>Grab a blank card as your <em>Character</em>.</p>
+<p>Grab a blank card as your <em>Agenda</em>.</p>
 <ol>
-<li>Grab a blank card as <em>The Character</em>, name it and place on your left. This is the begging of a pile know as <em>The Before</em>.</li>
-<li>Give <em>The Character</em> a short description.</li>
-<li>Grab a blank card as <em>The Agenda</em>, write a goal on it and place upside-down and sideways on your right. This is the begging of a pile known as <em>The After</em>.</li>
+<li>Come up with a name. Record on your <em>Character</em></li>
+<li>Make up a short description. Record on your <em>Character</em></li>
+<li>In one line, write what your character wants to accomplish this season. Record on your <em>Agenda</em></li>
+<li>Place your <em>Character</em> on your left. This is the begging of your pile know as <em>The Before</em>.</li>
+<li>Place your <em>Agenda</em> upside-down and sideways on your right. This is the begging of your pile known as <em>The After</em>.</li>
 </ol>
-<p><em>example character</em></p>
-<p><img src="https://yggilabs.github.io/blog/images/examples/character.JPG" alt="example character"></p>
-<p><em>example agenda</em></p>
-<p><img src="https://yggilabs.github.io/blog/images/examples/objective.JPG" alt="example agent"></p>
-<h3 id="the-trailer">The Trailer</h3>
+<p>See <a href="#example-character">example</a></p>
+<h3 id="creating-a-trailer">Creating a Trailer</h3>
 <p>Create the trailer. Imagine you must create a 15 second trailer for the show.</p>
-<p>Take turns, writing down things that are in the trailer or things that got cut from the trailer.</p>
-<p>Things in the trailer are what you definitely want to be a part of your game. Things cut from the trailer are things you definitely don’t want in the game.</p>
+<p>Take turns, writing down things that are in the trailer or things that got cut from the trailer. Create two categories, keep and cut. Record on <em>The Pitch</em>.</p>
+<p>Things you keep are what you definitely want to be a part of your game. Things you cut from the trailer are things you definitely don’t want in the game.</p>
 <p>When it is your turn to write one of these down, you have the final say, Say yes to ideas you are exited to explore. Say no to ideas that are over used or obnoxious.</p>
 <p>After the first round, go around again. If everyone had something to add, keep going around.</p>
 <h2 id="the-shoot">The Shoot</h2>
@@ -117,34 +117,31 @@ tags: [story-rich, gm-less, television]
 <li><strong>The Cast</strong> — Assemble <em>The Cast</em>. Assign each role to a Player. Players may have more than one role. Players should always play their own character. Each player ultimately has authority over their own character’s actions.</li>
 <li><strong>The Action</strong> — find out what happens.</li>
 </ol>
-<p><em>example scene</em></p>
-<p><img src="https://yggilabs.github.io/blog/images/examples/scene.JPG" alt="example scene"></p>
+<p>See <a href="#example-scene">example</a></p>
 <h3 id="the-cast">The Cast</h3>
 <p>If you need a character that doesn’t already belong to player, you have two options.</p>
 <ul>
 <li><strong>make one</strong> — Grab an index card write down a name and a quick description. Set that card down in the middle for everyone to see. Something like <em>Doris, The elderly bank-teller</em> works fine.</li>
 <li><strong>take one</strong> — Take a character from those previously made. Need an innocent bystander during your convenience store robbery? Just put <em>Doris, The elderly bank-teller</em> in harm’s way.</li>
 </ul>
-<p><em>example cast</em></p>
-<p><img src="https://yggilabs.github.io/blog/images/examples/cast.JPG" alt="example cast"></p>
+<p>See <a href="#example-cast">example</a></p>
 <h3 id="the-location">The Location</h3>
 <p>If you need a location, you have two options.</p>
 <ul>
 <li><strong>make one</strong> — Grab an index card write down a name and a quick description. Set that card down in the middle for everyone to see. Something like <em>Poorly-managed Convenience Store</em> works fine.</li>
 <li><strong>take one</strong> — Take a location from those previously made. Need a place to rob? Just visit the <em>Poorly-managed Convenience Store</em>.</li>
 </ul>
-<p><em>example location</em></p>
-<p><img src="https://yggilabs.github.io/blog/images/examples/location.JPG" alt="example location"></p>
+<p>See <a href="#example-location">example</a></p>
 <h2 id="the-break">The Break</h2>
 <ol>
-<li><strong>Take Five</strong> — Everyone, <a href="#when-you-take-five">take five</a>.</li>
-<li><strong>The Crew</strong> — Together, Do <em>The Crew</em> if you haven’t; otherwise, shuffle roles.</li>
-<li><strong>The Hype</strong> — Each player, Do <em>The Hype</em> for ‘The Player’ on your right.</li>
+<li><strong>Take Five</strong> — Everyone, <a href="#when-you-take-five">take five</a>. When you get back, change seats.</li>
+<li><strong>The Crew</strong> — Together, <a href="#creating-a-crew">create a crew</a> if you haven’t; otherwise, shuffle the roles.</li>
+<li><strong>The Hype</strong> — Each player, <a href="#choosing-a-hype">choose a hype</a> for the player on your right.</li>
 </ol>
-<h3 id="the-hype">The Hype</h3>
-<p>Ask <em>The Player</em> what action they are most interested in seeing <em>The Character</em> use. Record on ‘The Character’ as ‘The Hype’</p>
-<h3 id="the-crew">The Crew</h3>
-<p>Create crew cards for the following roles: Producer, Director, Writer. Just write the roles on some blank cards. Grab extra blank cards for each player above  three. Shuffle all the cards and deal them out.</p>
+<h3 id="choosing-a-hype">Choosing a Hype</h3>
+<p>Tell the player which action you are most interested in seeing their character use. That player records the action on their <em>Character</em> as a <em>Hype</em>.</p>
+<h3 id="creating-a-crew">Creating a Crew</h3>
+<p>Create crew cards for the following roles: Producer, Director, Writer. Just write the roles on some blank cards. Grab extra blank cards for each player above three. Shuffle all the cards and deal them out.</p>
 <h2 id="the-twist">The Twist</h2>
 <blockquote>
 <p>WIP — skip for now.</p>
@@ -182,6 +179,7 @@ tags: [story-rich, gm-less, television]
 <li><strong>Tinker</strong> — Fiddle with devices and mechanisms.</li>
 <li><strong>Wreck</strong> — Unleash savage force.</li>
 </ul>
+<p>See <a href="#example-actions">example</a></p>
 <p><strong>Default Plans</strong></p>
 <ul>
 <li><strong>Assault</strong> — Do violence to a target.  <em>Detail: The point of attack</em>.</li>
@@ -191,6 +189,7 @@ tags: [story-rich, gm-less, television]
 <li><strong>Social</strong> — Negotiate, bargain, or persuade.  <em>Detail: The social connection.</em></li>
 <li><strong>Transport</strong> — Carry cargo or people through danger.  <em>Detail: The route and means.</em></li>
 </ul>
+<p>See <a href="#example-plans">example</a></p>
 <h2 id="guidance">Guidance</h2>
 <h3 id="when-you-have-a-plan">When you have a plan</h3>
 <p>Be honest about your plans with the other characters. It can be very tempting to try to setup a twist on your own. Resist that urge, let the other players in on your plans enough that they can help you get there.</p>
@@ -210,6 +209,27 @@ tags: [story-rich, gm-less, television]
 <li><strong>cliff hanger</strong> — Literally and figuratively, use a cliffhanger. Don’t chop off someones head when you can kick them over the edge of a cliff and walk away.</li>
 <li><strong>a wizard did it</strong> — Crazy things happen in the real world. Crazier things happen in an imaginary world. Perhaps some fundamental assumption you made about the world is just wrong. Maybe death isn’t so final or maybe you aren’t as good at killing as you thought.</li>
 </ul>
+<h2 id="examples">Examples</h2>
+<h4 id="example-pitch"><em>example pitch</em></h4>
+<p><img src="https://yggilabs.github.io/blog/images/examples/pitch.JPG" alt="example pitch"></p>
+<h4 id="example-actions"><em>example actions</em></h4>
+<p><img src="https://yggilabs.github.io/blog/images/examples/actions.JPG" alt="example actions"></p>
+<h4 id="example-plans"><em>example plans</em></h4>
+<p><img src="https://yggilabs.github.io/blog/images/examples/plans.JPG" alt="example plans"></p>
+<h4 id="example-focus"><em>example focus</em></h4>
+<p><img src="https://yggilabs.github.io/blog/images/examples/focus.JPG" alt="example focus"></p>
+<h4 id="example-snag"><em>example snag</em></h4>
+<p><img src="https://yggilabs.github.io/blog/images/examples/snag.JPG" alt="example snag"></p>
+<h4 id="example-character"><em>example character</em></h4>
+<p><img src="https://yggilabs.github.io/blog/images/examples/character.JPG" alt="example character"></p>
+<h4 id="example-agenda"><em>example agenda</em></h4>
+<p><img src="https://yggilabs.github.io/blog/images/examples/objective.JPG" alt="example agent"></p>
+<h4 id="example-scene"><em>example scene</em></h4>
+<p><img src="https://yggilabs.github.io/blog/images/examples/scene.JPG" alt="example scene"></p>
+<h4 id="example-cast"><em>example cast</em></h4>
+<p><img src="https://yggilabs.github.io/blog/images/examples/cast.JPG" alt="example cast"></p>
+<h4 id="example-location"><em>example location</em></h4>
+<p><img src="https://yggilabs.github.io/blog/images/examples/location.JPG" alt="example location"></p>
 <h2 id="legal-stuff">Legal Stuff</h2>
 <p>This work is based on <a href="http://www.bladesinthedark.com/">Blades in the Dark</a>, product of One Seven Design, developed and authored by John Harper, and licensed for our use under the <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported license</a>.</p>
 <h2 id="changelog">Changelog</h2>
