@@ -64,6 +64,7 @@ tags: [story-rich, gm-less, television]
 <li>Grab a blank card as <em>The Agenda</em>, write a goal on it and place upside-down and sideways on your right. This is the begging of a pile known as <em>The After</em>.</li>
 </ol>
 <p><img src="https://yggilabs.github.io/blog/images/examples/character.JPG" alt="example character"></p>
+<p><img src="https://yggilabs.github.io/blog/images/examples/objective.JPG" alt="example agent"></p>
 <h3 id="the-trailer">The Trailer</h3>
 <p>Create the trailer. Imagine you must create a 15 second trailer for the show.</p>
 <p>Take turns, writing down things that are in the trailer or things that got cut from the trailer.</p>
