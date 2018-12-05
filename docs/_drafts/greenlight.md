@@ -38,7 +38,7 @@ tags: [story-rich, gm-less, television]
 <h2 id="the-pitch">The Pitch</h2>
 <ol>
 <li><strong>The Line</strong> —  Together, write a single line pitching the show.</li>
-<li><strong>The Pallet</strong> — Together, choose actions and plans. (use <a href="#lists">defaults</a>)</li>
+<li><strong>The Pallet</strong> — Together, choose actions and plans using <a href="#the-pallet">The Pallet</a>. (use <a href="#lists">defaults</a>)</li>
 <li><strong>The Trailer</strong> — Together, create <a href="#the-trailer">The Trailer</a>.</li>
 <li><strong>The Focus</strong> — Each player, create a focus using <a href="#the-focus">The Focus</a>.</li>
 <li><strong>The Titles</strong> — Together, come up with the titles of the first and last episodes.</li>
@@ -47,24 +47,41 @@ tags: [story-rich, gm-less, television]
 <li><strong>The Title</strong> — Together, title the show.</li>
 <li><strong>The Break</strong> — Everyone, do <a href="#the-break.">The Break</a></li>
 </ol>
-<p><img src="https://yggilabs.github.io/blog/images/examples/pitch.JPG" alt="example pitch"></p>
+<p><em>example pitch</em><br>
+<img src="https://yggilabs.github.io/blog/images/examples/pitch.JPG" alt="example pitch"></p>
 <h3 id="the-pallet">The Pallet</h3>
-<p><img src="https://yggilabs.github.io/blog/images/examples/actions.JPG" alt="example actions"></p>
-<p><img src="https://yggilabs.github.io/blog/images/examples/plans.JPG" alt="example plans"></p>
+<blockquote>
+<p>WIP — needs guidance. use <a href="#lists">defaults</a></p>
+<ul>
+<li># Actions 3-12</li>
+<li># plans 2-6</li>
+<li>Actions are characters’ tactics</li>
+<li>Plans are characters’ strategies</li>
+<li>Plans are always missing a piece</li>
+</ul>
+</blockquote>
+<p><em>example actions</em><br>
+<img src="https://yggilabs.github.io/blog/images/examples/actions.JPG" alt="example actions"></p>
+<p><em>example plans</em><br>
+<img src="https://yggilabs.github.io/blog/images/examples/plans.JPG" alt="example plans"></p>
 <h3 id="the-focus">The Focus</h3>
 <p>Grab a blank card as <em>The Focus</em>. Write down a topic that you want everyone to explore. place it in the middle of the table.</p>
-<p><img src="https://yggilabs.github.io/blog/images/examples/focus.JPG" alt="example focus"></p>
+<p><em>example focus</em><br>
+<img src="https://yggilabs.github.io/blog/images/examples/focus.JPG" alt="example focus"></p>
 <h3 id="the-snag">The Snag</h3>
 <p>A snag is a complication associated with a focus. Keep 'em short, one word — a few max.</p>
-<p><img src="https://yggilabs.github.io/blog/images/examples/snag.JPG" alt="example snag"></p>
+<p><em>example snag</em><br>
+<img src="https://yggilabs.github.io/blog/images/examples/snag.JPG" alt="example snag"></p>
 <h3 id="the-character">The Character</h3>
 <ol>
 <li>Grab a blank card as <em>The Character</em>, name it and place on your left. This is the begging of a pile know as <em>The Before</em>.</li>
 <li>Give <em>The Character</em> a short description.</li>
 <li>Grab a blank card as <em>The Agenda</em>, write a goal on it and place upside-down and sideways on your right. This is the begging of a pile known as <em>The After</em>.</li>
 </ol>
-<p><img src="https://yggilabs.github.io/blog/images/examples/character.JPG" alt="example character"></p>
-<p><img src="https://yggilabs.github.io/blog/images/examples/objective.JPG" alt="example agent"></p>
+<p><em>example character</em><br>
+<img src="https://yggilabs.github.io/blog/images/examples/character.JPG" alt="example character"></p>
+<p><em>example agenda</em><br>
+<img src="https://yggilabs.github.io/blog/images/examples/objective.JPG" alt="example agent"></p>
 <h3 id="the-trailer">The Trailer</h3>
 <p>Create the trailer. Imagine you must create a 15 second trailer for the show.</p>
 <p>Take turns, writing down things that are in the trailer or things that got cut from the trailer.</p>
@@ -100,21 +117,24 @@ tags: [story-rich, gm-less, television]
 <li><strong>The Cast</strong> — Assemble <em>The Cast</em>. Assign each role to a Player. Players may have more than one role. Players should always play their own character. Each player ultimately has authority over their own character’s actions.</li>
 <li><strong>The Action</strong> — find out what happens.</li>
 </ol>
-<p><img src="https://yggilabs.github.io/blog/images/examples/scene.JPG" alt="example scene"></p>
+<p><em>example scene</em><br>
+<img src="https://yggilabs.github.io/blog/images/examples/scene.JPG" alt="example scene"></p>
 <h3 id="the-cast">The Cast</h3>
 <p>If you need a character that doesn’t already belong to player, you have two options.</p>
 <ul>
 <li><strong>make one</strong> — Grab an index card write down a name and a quick description. Set that card down in the middle for everyone to see. Something like <em>Doris, The elderly bank-teller</em> works fine.</li>
 <li><strong>take one</strong> — Take a character from those previously made. Need an innocent bystander during your convenience store robbery? Just put <em>Doris, The elderly bank-teller</em> in harm’s way.</li>
 </ul>
-<p><img src="https://yggilabs.github.io/blog/images/examples/cast.JPG" alt="example cast"></p>
+<p><em>example cast</em><br>
+<img src="https://yggilabs.github.io/blog/images/examples/cast.JPG" alt="example cast"></p>
 <h3 id="the-location">The Location</h3>
 <p>If you need a location, you have two options.</p>
 <ul>
 <li><strong>make one</strong> — Grab an index card write down a name and a quick description. Set that card down in the middle for everyone to see. Something like <em>Poorly-managed Convenience Store</em> works fine.</li>
 <li><strong>take one</strong> — Take a location from those previously made. Need a place to rob? Just visit the <em>Poorly-managed Convenience Store</em>.</li>
 </ul>
-<p><img src="https://yggilabs.github.io/blog/images/examples/location.JPG" alt="example location"></p>
+<p><em>example location</em><br>
+<img src="https://yggilabs.github.io/blog/images/examples/location.JPG" alt="example location"></p>
 <h2 id="the-break">The Break</h2>
 <ol>
 <li><strong>Take Five</strong> — Everyone, <a href="#when-you-take-five">take five</a>.</li>
