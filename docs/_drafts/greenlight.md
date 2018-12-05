@@ -51,7 +51,7 @@ tags: [story-rich, gm-less, television]
 <p><img src="https://yggilabs.github.io/blog/images/examples/pitch.JPG" alt="example pitch"></p>
 <h3 id="the-pallet">The Pallet</h3>
 <blockquote>
-<p>WIP — needs guidance. use <a href="#lists">defaults</a></p>
+<p>WIP — needs guidance. use <a href="#lists">defaults</a> if you are confused</p>
 <ul>
 <li># Actions 3-12</li>
 <li># plans 2-6</li>
