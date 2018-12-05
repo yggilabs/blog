@@ -24,7 +24,7 @@ tags: [story-rich, gm-less, television]
 <p>No dice? coins work too! Heads is success, tails is failure.</p>
 </blockquote>
 <h3 id="starting-the-game">Starting the Game</h3>
-<p>If this is your first session or, you are beginning a new series. Follow the steps in <a href="#the-season">The Season</a>.</p>
+<p>If this is your first session or, you are beginning a new series, follow the steps in <a href="#the-season">The Season</a>.</p>
 <h2 id="the-season">The Season</h2>
 <ol>
 <li><em><strong>The Pitch</strong></em> — create <a href="#the-pitch">The Pitch</a>.</li>
