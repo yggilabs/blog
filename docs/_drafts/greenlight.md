@@ -55,7 +55,7 @@ tags: [story-rich, gm-less, television]
 <ul>
 <li># Actions 3-12</li>
 <li># plans 2-6</li>
-<li>Actions are characters’ tactics</li>
+<li>Actions are characters’ tactics; the verbs</li>
 <li>Plans are characters’ strategies</li>
 <li>Plans are always missing a piece</li>
 </ul>
