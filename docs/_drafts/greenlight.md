@@ -19,8 +19,7 @@ tags: [story-rich, gm-less, television]
 <li>A handful of d6.</li>
 </ul>
 <h3 id="action-roll">Action Roll</h3>
-<p>When a player character faces a challenging situation, you may be asked to make an action roll to resolve the outcome. Unlike some games, your character always does the thing it set out to do; however, the cost is still uncertain.</p>
-<p>When making an action roll, the player rolls the number of d6 indicated and chooses any die as the result. If the result is 4-6, it’s a success. If the result is 1-3, it’s a failure.</p>
+<p>When asked to make an action roll, the player rolls the number of d6 indicated and chooses any die as the result. If the result is 4-6, it’s a success. If the result is 1-3, it’s a failure.</p>
 <blockquote>
 <p>No dice? coins work too! Heads is success, tails is failure.</p>
 </blockquote>
@@ -237,10 +236,5 @@ tags: [story-rich, gm-less, television]
 <h4 id="section"></h4>
 <ul>
 <li></li>
-</ul>
-<h2 id="author-notes">Author Notes</h2>
-<p>crew</p>
-<ul>
-<li>crew advances to change how the game is played or allows the rules to be modded?</li>
 </ul>
 
