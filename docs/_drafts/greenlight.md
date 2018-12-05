@@ -99,7 +99,7 @@ tags: [story-rich, gm-less, television]
 * Choose a plan as <em>The Plan</em>. The <em>writer</em> will always choose the <em>Detail</em>. Record on <em>The Scene</em>.</li>
 <li><em>(producer)</em> <strong>The Plan / The Action</strong> — The producer then performs the option not chosen in step 5</li>
 <li><em>(writer)</em> <strong>The Detail</strong> — choose the <em>Detail</em> for <em>The Plan</em>. Record on <em>The Scene</em>.</li>
-<li><em>(director)</em> <strong>The Position</strong> — Make an <a href="#action-roll">Action Roll</a> (1d6). If <em>The Action</em> is one of your highlighted actions, You may establish how the action helps or hinders your chances to instead make an <a href="#action-roll">Action Roll</a> (2d6).
+<li><em>(director)</em> <strong>The Position</strong> — Make an <a href="#action-roll">Action Roll</a> (1d6). If <em>The Action</em> is one of your hype actions, You may establish how the action helps or hinders your chances to instead make an <a href="#action-roll">Action Roll</a> (2d6).
 <ul>
 <li><em><strong>success</strong></em> — <em>The Position</em> is <em>Risky</em> when <a href="#the-scene">The Scene</a> starts</li>
 <li><em><strong>failure</strong></em> — <em>The Position</em> is <em>Desperate</em> when <a href="#the-scene">The Scene</a> starts. Turn <em>The Scene</em> <a href="#when-things-go-sideways">sideways</a>.</li>
