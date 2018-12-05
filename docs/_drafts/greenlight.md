@@ -38,10 +38,10 @@ tags: [story-rich, gm-less, television]
 <p>Grab a new card as <em>The Pitch</em>.</p>
 <ol>
 <li><strong>The Line</strong> —  Together, create a single line pitching the show. Record on <em>The Pitch</em>.</li>
-<li><strong>The Pallet</strong> — Together, <a href="#creating-a-pallet">create a pallet</a>. (use <a href="#lists">defaults</a>)</li>
+<li><strong>The Pallet</strong> — Together, <a href="#creating-a-pallet">create a pallet</a>.</li>
 <li><strong>The Trailer</strong> — Together, <a href="#creating-a-trailer">create a trailer</a>.</li>
 <li><strong>The Focus</strong> — Each player, <a href="#creating-a-focus">create a focus</a>.</li>
-<li><strong>The Titles</strong> — Together, come up with the titles of the first and last episodes. Record on <em>The Pitch</em>.</li>
+<li><strong>The Titles</strong> — Together, title the first and last episodes of the season. Record on <em>The Pitch</em>.</li>
 <li><strong>The Characters</strong> — Each player, <a href="#creating-a-character">create a character</a>.</li>
 <li><strong>The Snags</strong> — Each player, <a href="#creating-a-snag">create a snag</a> for each focus.</li>
 <li><strong>The Title</strong> — Together, title the show. Record on <em>The Pitch</em>.</li>
@@ -202,7 +202,7 @@ tags: [story-rich, gm-less, television]
 <h3 id="when-you-cant-agree">When you can’t agree</h3>
 <p>Flip a coin, go with it.</p>
 <h3 id="when-things-dont-make-any-sense">When things don’t make any sense</h3>
-<p>This game takes some liberties with the linearity of time. As such, finalities such as death can lead to some awkward situations. Here are some ways to avoid the confusion which might be caused by reconciling disparate stories.</p>
+<p>This game takes some liberties with the linearity of time. Finalities such as death can lead to some awkward situations. Here are some ways to avoid the confusion which might be caused by reconciling disparate stories.</p>
 <ul>
 <li><strong>don’t</strong> — Let things not make sense. Shows have plot holes all the time. It’s okay!</li>
 <li><strong>cliff hanger</strong> — Literally and figuratively, use a cliffhanger. Don’t chop off someones head when you can kick them over the edge of a cliff and walk away.</li>
