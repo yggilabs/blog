@@ -8,7 +8,10 @@ tags: [story-rich, gm-less, television]
 ---
 
 <h1 id="about">About</h1>
-<p>Greenlight is a role-playing game in which you will direct, produce, write and star in your own television series. Each player will create a character that is the star of their own story-line. Together, you will explore the story of an entire television season in a single session.</p>
+<p>Greenlight is a roleplaying game in which you will direct, produce, write and star in your own television series. Each player will create a character that is the star of their own story-line. Together, you will explore the story of an entire television season in a single session.</p>
+<blockquote>
+<p>This rules preview is provided free of charge. If you would like to support me in making more content like this, consider supporting me on <a href="https://www.patreon.com/join/skelley?">Patreon</a>.</p>
+</blockquote>
 <h1 id="rules">Rules</h1>
 <h2 id="the-basics">The Basics</h2>
 <h3 id="what-youll-need">What you’ll Need</h3>
@@ -16,8 +19,16 @@ tags: [story-rich, gm-less, television]
 <li>A bunch of note cards. (just bring the whole pack)</li>
 <li>Some other human beings. A few or more but, less than lots.</li>
 <li>Writing utensils. Enough to share.</li>
-<li>A handful of d6.</li>
+<li>A handful of entropy. (coins or dice work)</li>
 </ul>
+<h3 id="how-to-roleplay">How to Roleplay</h3>
+<p>Be curious and respectful.</p>
+<ul>
+<li>Think about the fiction earnestly.</li>
+<li>Interrogate the fiction by asking questions.</li>
+<li>Treat other players as human beings.</li>
+</ul>
+<h3 id="how-to-win">How to Win</h3>
 <h3 id="action-roll">Action Roll</h3>
 <p>When asked to make an action roll, the player rolls the number of d6 indicated and chooses any die as the result. If the result is 4-6, it’s a success. If the result is 1-3, it’s a failure.</p>
 <blockquote>
@@ -92,7 +103,7 @@ tags: [story-rich, gm-less, television]
 <li><em>(director)</em> <strong>Previously…</strong> — If <em>The Before</em> has not been recapped, give a short description of what happened.</li>
 <li><em>(producer)</em> <strong>The Focus</strong> — Choose a focus as <em>The Focus</em>.</li>
 <li><em>(writer)</em>  <strong>The Snag</strong> — Choose a snag card from <em>The Focus</em> as <em>The Snag</em> must be different that <em>The Before</em> and <em>The After</em>. Give <em>The Snag</em> to <em>The Director</em>.</li>
-<li><em>(director)</em> <strong>The Scene</strong> — Place <em>The Snag</em> on <em>The Before</em> or next to <em>The After</em>. The card on top of the selected pile is now <em>The Scene</em>.</li>
+<li><em>(director)</em> <strong>The Scene</strong> — Place <em>The Snag</em> on <em>The Before</em> or next to <em>The After</em>. The card on top of the selected pile is now <em>The Scene</em>. Describe how the obstacle presents itself in <em>The Scene</em>.</li>
 <li><em>(director)</em> <strong>The Action / The Plan</strong> — Choose one:<br>
 * After <em>The Plan</em> and <em>The Detail</em> are chosen, choose an action as <em>The Action</em>. Record on <em>The Scene</em>.<br>
 * Choose a plan as <em>The Plan</em>. The <em>writer</em> will always choose the <em>Detail</em>. Record on <em>The Scene</em>.</li>
