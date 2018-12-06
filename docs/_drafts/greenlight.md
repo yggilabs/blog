@@ -26,7 +26,7 @@ tags: [story-rich, gm-less, television]
 <li>Treat other players as human beings.</li>
 </ul>
 <h3 id="engagement-roll">Engagement Roll</h3>
-<p>When asked to make an engagement roll, the player rolls the number of dice indicated and chooses any die as the result. If the result is even, your position is <em>Risky</em>. If the result is odd, our position is <em>Desperate</em>.</p>
+<p>When asked to make an engagement roll, the player rolls the number of dice indicated and chooses any die as the result. If the result is even, your position is <em>Risky</em>. If the result is odd, your position is <em>Desperate</em>.</p>
 <blockquote>
 <p>No dice? coins work too! Heads, your position is <em>Risky</em>. Tails, your position is <em>Desperate</em>.</p>
 </blockquote>
