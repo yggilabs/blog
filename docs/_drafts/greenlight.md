@@ -26,7 +26,7 @@ tags: [story-rich, gm-less, television]
 <li>Treat other players as human beings.</li>
 </ul>
 <h3 id="engagement-roll">Engagement Roll</h3>
-<p>When asked to make an engagement roll, the player rolls the number of dice indicated and chooses any die as the result. If the result is even, your position is <em>Risky</em>. If the result is odd, tour position is <em>Desperate</em>.</p>
+<p>When asked to make an engagement roll, the player rolls the number of dice indicated and chooses any die as the result. If the result is even, your position is <em>Risky</em>. If the result is odd, your position is <em>Desperate</em>.</p>
 <blockquote>
 <p>No dice? coins work too! Heads, your position is <em>Risky</em>. Tails, your position is <em>Desperate</em>.</p>
 </blockquote>
@@ -55,7 +55,7 @@ tags: [story-rich, gm-less, television]
 <li>Each player, <a href="#creating-a-character">create a character</a>.</li>
 <li>Each player, <a href="#creating-a-snag">create a snag</a> for each focus.</li>
 <li>Together, title the show. Record on <em>The Pitch</em>.</li>
-<li>Everyone, do <a href="#the-break.">The Break</a></li>
+<li>Everyone, do <a href="#the-break">The Break</a>.</li>
 </ol>
 <p>See <a href="#example-pitch">example</a></p>
 <h3 id="creating-a-pallet">Creating a Pallet</h3>
@@ -235,7 +235,7 @@ tags: [story-rich, gm-less, television]
 <h4 id="example-location"><em>example location</em></h4>
 <p><img src="https://yggilabs.github.io/blog/images/examples/location.JPG" alt="example location"></p>
 <h2 id="acknowledgements">Acknowledgements</h2>
-<p>If you are familiar with the works of Jason Morningstar’s <a href="http://bullypulpitgames.com/games/fiasco/">Fiasco</a>, Ben Robbins’ <a href="http://www.lamemage.com/microscope/">Microscope</a>  or, John Harper’s <a href="http://www.bladesinthedark.com/">Blades in the Dark</a>, you you will surely notice the huge impact they have had on this project. Without these works and the works of many others, this project would not be the same. My most sincere thanks to all those who have inspired me!</p>
+<p>If you are familiar with the works of Jason Morningstar’s <a href="http://bullypulpitgames.com/games/fiasco/">Fiasco</a>, Ben Robbins’ <a href="http://www.lamemage.com/microscope/">Microscope</a> or, John Harper’s <a href="http://www.bladesinthedark.com/">Blades in the Dark</a>, you you will surely notice the huge impact they have had on this project. Without these works and the works of many others, this project would not be the same. My most sincere thanks to all those who have inspired me!</p>
 <p>A very special thanks to my playtesters!</p>
 <h2 id="legal-stuff">Legal Stuff</h2>
 <p>This work is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.</p>
