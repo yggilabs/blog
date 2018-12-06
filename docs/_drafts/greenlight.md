@@ -75,14 +75,16 @@ tags: [story-rich, gm-less, television]
 <p>For each plan, leave a blank spot that needs to be filled in later. This is the <em>Detail</em>.</p>
 <p>Create two to six plans. Record on <em>Plans</em>.</p>
 <p>See <a href="#example-plans">example</a></p>
+<h3 id="creating-a-trailer">Creating a Trailer</h3>
+<p>Create the trailer. Imagine you must create a 15 second trailer for the show.</p>
+<p>Take turns, writing down things that are in the trailer or things that got cut from the trailer. Create two categories, keep and cut. Record on <em>The Pitch</em>.</p>
+<p>Things you keep are what you definitely want to be a part of your game. Things you cut from the trailer are things you definitely don’t want in the game.</p>
+<p>When it is your turn to write one of these down, you have the final say, Say yes to ideas you are exited to explore. Say no to ideas that are over used or obnoxious.</p>
+<p>After the first round, go around again. If everyone had something to add, keep going around.</p>
 <h3 id="creating-a-focus">Creating a Focus</h3>
 <p>Grab a blank card.</p>
 <p>Write down a topic that you want everyone to explore, keep it to a few words or less. Place it near the middle of the table.</p>
 <p>See <a href="#example-focus">example</a></p>
-<h3 id="creating-a-snag">Creating a Snag</h3>
-<p>Grab a blank card.</p>
-<p>Write down a complication which may arise when exploring a specific focus, keep it to a few words or less. Place it next to that focus.</p>
-<p>See <a href="#example-snag">example</a></p>
 <h3 id="creating-a-character">Creating a Character</h3>
 <p>Grab a blank card as your <em>Character</em>.</p>
 <p>Grab a blank card as your <em>Agenda</em>.</p>
@@ -94,12 +96,10 @@ tags: [story-rich, gm-less, television]
 <li>Place your <em>Agenda</em> upside-down and sideways on your right. This is the begging of your pile known as <a href="#when-that-thing-happens-that-changes-everything">The After</a>.</li>
 </ol>
 <p>See <a href="#example-character">example</a></p>
-<h3 id="creating-a-trailer">Creating a Trailer</h3>
-<p>Create the trailer. Imagine you must create a 15 second trailer for the show.</p>
-<p>Take turns, writing down things that are in the trailer or things that got cut from the trailer. Create two categories, keep and cut. Record on <em>The Pitch</em>.</p>
-<p>Things you keep are what you definitely want to be a part of your game. Things you cut from the trailer are things you definitely don’t want in the game.</p>
-<p>When it is your turn to write one of these down, you have the final say, Say yes to ideas you are exited to explore. Say no to ideas that are over used or obnoxious.</p>
-<p>After the first round, go around again. If everyone had something to add, keep going around.</p>
+<h3 id="creating-a-snag">Creating a Snag</h3>
+<p>Grab a blank card.</p>
+<p>Write down a complication which may arise when exploring a specific focus, keep it to a few words or less. Place it next to that focus.</p>
+<p>See <a href="#example-snag">example</a></p>
 <h2 id="the-shoot">The Shoot</h2>
 <!--&#10;1. *(director)* **Previously...** &#8212; If [The Before](#when-that-thing-happens-that-changes-everything) has not been recapped, give a short description of what happened.&#10;2. *(producer)* **The Focus** &#8212; Choose a focus as *The Focus*.&#10;3. *(writer)*  **The Snag** &#8212; Choose a snag card from *The Focus* as *The Snag* must be different than *The Before* and *The After*. Give *The Snag* to *The Director*.&#10;4. *(director)* **The Scene** &#8212; Place *The Snag* on [The Before](#when-that-thing-happens-that-changes-everything) or next to [The After](#when-that-thing-happens-that-changes-everything). The card on top of the selected pile is now *The Scene*. Describe how the obstacle presents itself in *The Scene*.&#10;5. *(director)* **The Action / The Plan** &#8212; Choose one:&#10; &#9;&#9;* After *The Plan* and *The Detail* are chosen, choose an action as *The Action*. Record on *The Scene*.&#10;&#9;&#9;* Choose a plan as *The Plan*. The *writer* will always choose the *Detail*. Record on *The Scene*.&#10;6. *(producer)* **The Plan / The Action** &#8212; The producer then performs the option not chosen in step 5&#10;7. *(writer)* **The Detail** &#8212; choose the *Detail* for *The Plan*. Record on *The Scene*.&#10;8. *(director)* **The Position** &#8212; Make an [Engagement Roll](#engagement-roll) (1). If *The Action* is one of your hype actions, You may establish how the action helps or hinders your chances to instead make an [Engagement Roll](#engagement-roll) (2).&#10;9. *(director)* **The Scene** &#8212; Play out [The Scene](#the-scene). &#10;10. *(director)* **Next Time...** &#8212; If *The Snag* was placed next to [The After](#when-that-thing-happens-that-changes-everything), place it on top and give a quick preview of what might happen.&#10;11. *(all)* **pass** &#8212; Everyone with a role card passes it one player to the right. &#10;-->
 
@@ -107,9 +107,9 @@ tags: [story-rich, gm-less, television]
 <thead>
 <tr>
 <th></th>
-<th>director</th>
-<th>producer</th>
-<th>writer</th>
+<th>Director</th>
+<th>Producer</th>
+<th>Writer</th>
 </tr>
 </thead>
 <tbody>
