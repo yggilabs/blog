@@ -26,7 +26,7 @@ tags: [story-rich, gm-less, television]
 <li>Treat other players as human beings.</li>
 </ul>
 <h3 id="engagement-roll">Engagement Roll</h3>
-<p>When asked to make an engagement roll, the player rolls the number of dice indicated and chooses any die as the result. If the result is even, your position is <em>Risky</em>. If the result is odd, your position is <em>Desperate</em>.</p>
+<p>When asked to make an engagement roll, the player rolls the number of dice indicated and chooses any die as the result. If the result is even, your position is <em>Risky</em>. If the result is odd, our position is <em>Desperate</em>.</p>
 <blockquote>
 <p>No dice? coins work too! Heads, your position is <em>Risky</em>. Tails, your position is <em>Desperate</em>.</p>
 </blockquote>
@@ -103,9 +103,13 @@ tags: [story-rich, gm-less, television]
 <li><em>(producer)</em> <strong>The Focus</strong> — Choose a focus as <em>The Focus</em>.</li>
 <li><em>(writer)</em>  <strong>The Snag</strong> — Choose a snag card from <em>The Focus</em> as <em>The Snag</em> must be different than <em>The Before</em> and <em>The After</em>. Give <em>The Snag</em> to <em>The Director</em>.</li>
 <li><em>(director)</em> <strong>The Scene</strong> — Place <em>The Snag</em> on <a href="#when-that-thing-happens-that-changes-everything">The Before</a> or next to <a href="#when-that-thing-happens-that-changes-everything">The After</a>. The card on top of the selected pile is now <em>The Scene</em>. Describe how the obstacle presents itself in <em>The Scene</em>.</li>
-<li><em>(director)</em> <strong>The Action / The Plan</strong> — Choose one:<br>
-* After <em>The Plan</em> and <em>The Detail</em> are chosen, choose an action as <em>The Action</em>. Record on <em>The Scene</em>.<br>
-* Choose a plan as <em>The Plan</em>. The <em>writer</em> will always choose the <em>Detail</em>. Record on <em>The Scene</em>.</li>
+<li><em>(director)</em> <strong>The Action / The Plan</strong> — Choose one:</li>
+</ol>
+<ul>
+<li>After <em>The Plan</em> and <em>The Detail</em> are chosen, choose an action as <em>The Action</em>. Record on <em>The Scene</em>.</li>
+<li>Choose a plan as <em>The Plan</em>. The <em>writer</em> will always choose the <em>Detail</em>. Record on <em>The Scene</em>.</li>
+</ul>
+<ol start="6">
 <li><em>(producer)</em> <strong>The Plan / The Action</strong> — The producer then performs the option not chosen in step 5</li>
 <li><em>(writer)</em> <strong>The Detail</strong> — choose the <em>Detail</em> for <em>The Plan</em>. Record on <em>The Scene</em>.</li>
 <li><em>(director)</em> <strong>The Position</strong> — Make an <a href="#engagement-roll">Engagement Roll</a> (1). If <em>The Action</em> is one of your hype actions, You may establish how the action helps or hinders your chances to instead make an <a href="#engagement-roll">Engagement Roll</a> (2).</li>
@@ -163,9 +167,96 @@ tags: [story-rich, gm-less, television]
 <li>Good and bad outcomes are good. Middling outcomes are bad</li>
 <li>player with most sideways cards get what they want in a bad way.</li>
 <li>player with fewest sideways cards gets what they want ina good way.</li>
-<li>Everyone else doesn’t get what they want</li>
+<li>Everyone else doesn’t get what they wantd6</li>
 </ul>
 </blockquote>
+<h3 id="action-rolls">Action Rolls</h3>
+<p>When a player character faces a challenging situation, you may be asked to make an action roll to resolve the outcome. Unlike some games, your character always does the thing it set out to do; however, the cost is still uncertain.</p>
+<p>The player rolls a number of d6 as indicated and may choose any die as the result of the roll. If the result is 4-6, it’s a success. If the result is 1-3, it’s a failure.</p>
+<h1 id="playing-the-game">Playing the Game</h1>
+<h2 id="the-season-1">The Season</h2>
+<ol>
+<li><em><strong>The Pitch</strong></em> — create <em>The Pitch</em>.</li>
+<li><em><strong>The Shoot</strong></em> — You are ready to begin filming. Repeat <em>The Shoot</em> until everyone has had a chance to try out all the roles a few times.</li>
+<li><em><strong>The Break</strong></em> — Take five. Then, shuffle the role cards as in step 2. discuss plot twist? highlight new actions</li>
+<li><em><strong>The Shoot II</strong></em> — repeat step 3</li>
+<li><em><strong>The Wrap</strong></em> — do the plot twist</li>
+</ol>
+<h2 id="the-pitch-1">The Pitch</h2>
+<ol>
+<li><strong>The Pallet</strong> — Together, choose actions and plans. <s>Create a list of actions by following the prompts</s> use the default</li>
+<li><strong>The Line</strong> —  Together, write a single line describing the show.</li>
+<li><strong>The Trailer</strong> — Together, create <em>The Trailer</em>.</li>
+<li><strong>The Foci</strong> — Each player, create a focus using <em>The Focus</em>.</li>
+<li><strong>The Titles</strong> — Together, come up with the titles of the first and last episodes**.</li>
+<li><strong>The Characters</strong> — Each player, create a character using <em>The Character</em>.</li>
+<li><strong>The Snags</strong> — Each player, create one snag for each focus.</li>
+<li><strong>The Title</strong> — Together, title the show.</li>
+<li><strong>The Break</strong> — Everyone, Take five. do <em>The Break</em></li>
+</ol>
+<h3 id="the-character">The Character</h3>
+<ol>
+<li>Grab a blank card as <em>The Character</em>, name it and place on your left. This is the begging of a pile know as <em>The Before</em>.</li>
+<li>Give <em>The Character</em> a short description.</li>
+<li>Grab a blank card as <em>The Agenda</em>, write a goal on it and place upside-down and sideways on your right. This is the begging of a pile known as <em>The After</em>.</li>
+</ol>
+<h3 id="the-hype">The Hype</h3>
+<p>Ask <em>The Player</em> what action they are most interested in seeing <em>The Character</em> use. Record on ‘The Character’ as ‘The Hype’</p>
+<h3 id="the-crew">The Crew</h3>
+<p>Create crew cards for the following roles: Producer, Director, Writer. Just write the roles on some blank cards. Grab extra blank cards for each player above  three. Shuffle all the cards and deal them out.</p>
+<h3 id="the-trailer">The Trailer</h3>
+<p>Create the trailer. Imagine you must create a 15 second trailer for the show.</p>
+<p>Take turns, writing down things that are in the trailer or things that got cut from the trailer.</p>
+<p>Things in the trailer are what you definitely want to be a part of your game. Things cut from the trailer are things you definitely don’t want in the game.</p>
+<p>When it is your turn to write one of these down, you have the final say, Say yes to ideas you are exited to explore. Say no to ideas that are over used or obnoxious.</p>
+<p>After the first round, go around again. If everyone had something to add, keep going around.</p>
+<h2 id="the-shoot-1">The Shoot</h2>
+<ol>
+<li><em>(director)</em> <strong>Previously…</strong> — If <em>The Before</em> has not been recapped, give a short description of what happened.</li>
+<li><em>(producer)</em> <strong>The Focus</strong> — Choose a focus as <em>The Focus</em>.</li>
+<li><em>(writer)</em>  <strong>The Snag</strong> — Choose a snag card from <em>The Focus</em> as <em>The Snag</em> must be different that <em>The Before</em> and <em>The After</em>. Give <em>The Snag</em> to <em>The Director</em>.</li>
+<li><em>(director)</em> <strong>The Scene</strong> — Place <em>The Snag</em> on <em>The Before</em> or next to <em>The After</em>. The card on top of the selected pile is now <em>The Scene</em>.</li>
+<li><em>(director)</em> <strong>The Action / The Plan</strong> — Choose one:<br>
+* After <em>The Plan</em> and <em>The Detail</em> are chosen, choose an action as <em>The Action</em>. Record on <em>The Scene</em>.<br>
+* Choose a plan as <em>The Plan</em>. The <em>writer</em> will always choose the <em>Detail</em>. Record on <em>The Scene</em>.</li>
+<li><em>(producer)</em> <strong>The Plan / The Action</strong> — The producer then performs the option not chosen in step 5</li>
+<li><em>(writer)</em> <strong>The Detail</strong> — choose the <em>Detail</em> for <em>The Plan</em>. Record on <em>The Scene</em>.</li>
+<li><em>(director)</em> <strong>The Position</strong> — Make an <em>action roll (1d6)</em>. If <em>The Action</em> is one of your highlighted actions, You may establish how the action helps or hinders your chances to instead make an <em>action roll (2d6)</em>.
+<ul>
+<li><em><strong>success</strong></em> — <em>The Position</em> is <em>Risky</em> when <em>The Scene</em> starts</li>
+<li><em><strong>failure</strong></em> — <em>The Position</em> is <em>Desperate</em> when <em>The Scene</em> starts. Turn <em>The Scene</em> sideways.</li>
+</ul>
+</li>
+<li><em>(director)</em> <strong>The Scene</strong> — Play out <em>The Scene</em>.</li>
+<li><em>(director)</em> <strong>Next Time…</strong> — If <em>The Snag</em> was placed next to <em>The After</em> place it on top of <em>The After</em> and give a quick preview of what might happen.</li>
+<li><em>(all)</em> <strong>pass</strong> — Everyone with a role card passes it one player to the right.</li>
+</ol>
+<h3 id="the-scene-1">The Scene</h3>
+<ol>
+<li><strong>The Price</strong> — If <em>The Position</em> is <em>Risky</em>, what are you about to lose? If <em>The Position</em> is <em>Desperate</em>, what did you just lose?</li>
+<li><strong>The Slug</strong> — Provide a general location and/or time. Record on <em>The Scene</em>.</li>
+<li><strong>The Shot</strong> — Describe what we see in the moments before the scene unfolds.</li>
+<li><strong>The Cast</strong> — Assign each role in <em>The Scene</em> to a Player. Players may have more than one role. Players should always play their own character. Each player ultimately has authority over their own character’s actions.</li>
+<li><strong>The Action</strong> — find out what happens.</li>
+</ol>
+<h3 id="the-cast">The cast</h3>
+<p>If you need a character that doesn’t already belong to player, you have two options.</p>
+<ul>
+<li><strong>make one</strong> — Grab an index card write down a name and a quick description. Set that card down in the middle for everyone to see. Something like <em>Doris, The elderly bank-teller</em> works fine.</li>
+<li><strong>take one</strong> — Take a character from those previously made. Need an innocent bystander during your convenience store robbery? Just put <em>Doris, The elderly bank-teller</em> in harms way.</li>
+</ul>
+<h2 id="the-break-1">The Break</h2>
+<ol>
+<li><em>(all)</em> <strong>Take Five</strong> — take a five minute break.</li>
+<li><em>(all)</em> <strong>The Crew</strong> — Do <em>The Crew</em> if you haven’t; otherwise, just shuffle roles.</li>
+<li><em>(each)</em> <strong>The Hype</strong> — Do <em>The Hype</em> with ‘The Player’ on your right.</li>
+</ol>
+<h2 id="the-wrap-1">The Wrap</h2>
+<p>Score the game. wrap up the stories. Good and bad outcomes are good. Middling outcomes are bad</p>
+<h1 id="resources">Resources</h1>
+<h2 id="links">Links</h2>
+<p><a href="journal">journal</a></p>
+<h2 id="downloads">Downloads</h2>
 <h1 id="appendices">Appendices</h1>
 <h2 id="lists">Lists</h2>
 <p><strong>Default Actions</strong></p>
@@ -198,6 +289,31 @@ tags: [story-rich, gm-less, television]
 <h3 id="when-you-have-a-plan">When you have a plan</h3>
 <p>Be honest about your plans with the other characters. It can be very tempting to try to setup a twist on your own. Resist that urge, let the other players in on your plans enough that they can help you get there.</p>
 <h3 id="when-things-go-sideways">When things go sideways</h3>
+<p><strong>Scene Responsibities</strong></p>
+<p><em><strong>Director</strong></em></p>
+<ul>
+<li>(1) <strong>Previously…</strong></li>
+<li>(4)  <strong>The Scene</strong></li>
+<li>(5) <strong>The Action / The Plan</strong></li>
+<li>(8) <strong>The Position</strong></li>
+<li>(9) <strong>The Scene</strong></li>
+<li>(10) <strong>Next Time…</strong></li>
+<li>(11) <strong>pass</strong></li>
+</ul>
+<p><em><strong>Producer</strong></em></p>
+<ul>
+<li>(2)  <strong>The Focus</strong></li>
+<li>(6)  <strong>The Plan / The Action</strong></li>
+<li>(11) <strong>pass</strong></li>
+</ul>
+<p><em><strong>Writer</strong></em></p>
+<ul>
+<li>(3) <strong>The Snag</strong></li>
+<li>(7) <strong>The Detail</strong></li>
+<li>(11) <strong>pass</strong></li>
+</ul>
+<h2 id="guidance-1">Guidance</h2>
+<h3 id="when-things-go-sideways.">When things go sideways.</h3>
 <p>Sometimes you may be required to turn a card sideways. I use landscape as the normal orientation and, portrait as sideways. It doesn’t matter just pick one and be consistent in your group.</p>
 <h3 id="when-that-thing-happens-that-changes-everything">When that thing happens that changes everything</h3>
 <p>At some point in the story a thing happens, it changes everything! Or maybe it doesn’t… Or maybe its ripples are felt in subtle ways which we are not meant to understand. Sometimes the thing is the same thing for all the characters and sometimes the thing is a different thing.</p>
@@ -244,6 +360,47 @@ tags: [story-rich, gm-less, television]
 <h3 id="unreleased">Unreleased</h3>
 <h4 id="section"></h4>
 <ul>
+<li><em>take five</em><br>
+You are going to work on <em>The Pilot</em> and you are going to create an awesome setup for a melodrama about a group of time-traveling android archaeologists in some kind of love dodecahedron. Then, the rules are going to tell you to <em>take 5</em> and you are going to want to ignore it. DON’T! Or do, I’m not your mom. The breaks are there for a reason. They will give your group time to use the bathroom or grab snacks without interrupting the flow of the game later on. They also gives you some time to turn things over in your own brain or lets you talk about things with another player outside the rules of the game.</li>
+</ul>
+<h3 id="when-you-cant-agree-1">When you can’t agree</h3>
+<p>roll a die, go with it.</p>
+<h3 id="when-things-dont-make-any-sense-1">When things don’t make any sense</h3>
+<p>This game takes some liberties with the linearity of time. As such, finalities such as death can lead to some awkward situations. Here are some ways to avoid the confusion which might be caused by reconciling disparate stories.</p>
+<ul>
+<li><strong>don’t</strong> — Let things not make sense. Shows have plot holes all the time. It’s okay!</li>
+<li><strong>cliff hanger</strong> — Literally and figuratively, use a cliffhanger. Don’t chop off someones head when you can kick them over the edge of a cliff and walk away.</li>
+<li><strong>a wizard did it</strong> — Crazy things happen in the real world. Crazier things happen in an imaginary world. Perhaps some fundamental assumption you made about the world is just wrong. Maybe death isn’t so final or maybe you aren’t as good at killing as you thought.</li>
+</ul>
+<h2 id="changelog-1">Changelog</h2>
+<h3 id="unreleased-1">Unreleased</h3>
+<h4 id="section-1"></h4>
+<ul>
 <li></li>
 </ul>
+<h3 id="section-2">1.0.0 - 2018-08-09</h3>
+<h5 id="initial-release">Initial Release</h5>
+<ul>
+<li></li>
+</ul>
+<h2 id="author-notes">Author Notes</h2>
+<p>crew</p>
+<ul>
+<li>crew advances to change how the game is played or allows the rules to be modded?</li>
+</ul>
+<p>Actions</p>
+<ul>
+<li>differnet actions set the scope of the game. make some new sets or have guidlines</li>
+</ul>
+<p>Pitch</p>
+<ul>
+<li>more guidance on creating a pitch. Not a list of options to choose from ask really open ended questions.</li>
+<li>Something like, “You are about to cut loose, where are you? how did you get there? who is that over there?” I dont want to be leading but I want people to think about the minutiae. Instead of asking what time period this is and getting an answer like “the future” I want to ask how did they get to work and get a response like “The vactube”. That instantly tells everyone else way more.</li>
+<li>maybe I can ask simple questions if I say certain answers aren’t allowed</li>
+<li>lookup microscope setup as pitch</li>
+</ul>
+<p><strong><em>The Scene</em> example</strong><br>
+Technomancy<br>
+Stealth, Backdoor in NebuCorp servers (Tinker)<br>
+Nighttime - future starbucks</p>
 
