@@ -98,86 +98,22 @@ tags: [story-rich, gm-less, television]
 <p>Write down a complication which may arise when exploring a specific focus, keep it to a few words or less. Place it next to that focus.</p>
 <p>See <a href="#example-snag">example</a></p>
 <h2 id="the-shoot">The Shoot</h2>
-<!--&#10;1. *(director)* **Previously...** &#8212; If [The Before](#when-that-thing-happens-that-changes-everything) has not been recapped, give a short description of what happened.&#10;2. *(producer)* **The Focus** &#8212; Choose a focus as *The Focus*.&#10;3. *(writer)*  **The Snag** &#8212; Choose a snag card from *The Focus* as *The Snag* must be different than *The Before* and *The After*. Give *The Snag* to *The Director*.&#10;4. *(director)* **The Scene** &#8212; Place *The Snag* on [The Before](#when-that-thing-happens-that-changes-everything) or next to [The After](#when-that-thing-happens-that-changes-everything). The card on top of the selected pile is now *The Scene*. Describe how the obstacle presents itself in *The Scene*.&#10;5. *(director)* **The Action / The Plan** &#8212; Choose one:&#10; &#9;&#9;* After *The Plan* and *The Detail* are chosen, choose an action as *The Action*. Record on *The Scene*.&#10;&#9;&#9;* Choose a plan as *The Plan*. The *writer* will always choose the *Detail*. Record on *The Scene*.&#10;6. *(producer)* **The Plan / The Action** &#8212; The producer then performs the option not chosen in step 5&#10;7. *(writer)* **The Detail** &#8212; choose the *Detail* for *The Plan*. Record on *The Scene*.&#10;8. *(director)* **The Position** &#8212; Make an [Engagement Roll](#engagement-roll) (1). If *The Action* is one of your hype actions, You may establish how the action helps or hinders your chances to instead make an [Engagement Roll](#engagement-roll) (2).&#10;9. *(director)* **The Scene** &#8212; Play out [The Scene](#the-scene). &#10;10. *(director)* **Next Time...** &#8212; If *The Snag* was placed next to [The After](#when-that-thing-happens-that-changes-everything), place it on top and give a quick preview of what might happen.&#10;11. *(all)* **pass** &#8212; Everyone with a role card passes it one player to the right. &#10;-->
-
-<table>
-<thead>
-<tr>
-<th></th>
-<th>Director</th>
-<th>Producer</th>
-<th>Writer</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>1</td>
-<td>If <a href="#when-that-thing-happens-that-changes-everything">The Before</a> has not been recapped, give a short description of what happened.</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>2</td>
-<td></td>
-<td>Choose a focus as <em>The Focus</em>.</td>
-<td></td>
-</tr>
-<tr>
-<td>3</td>
-<td></td>
-<td></td>
-<td>Choose a snag card from <em>The Focus</em> as <em>The Snag</em> must be different than <a href="#when-that-thing-happens-that-changes-everything">The Before</a> and <a href="#when-that-thing-happens-that-changes-everything">The After</a>. Give <em>The Snag</em> to <em>The Director</em>.</td>
-</tr>
-<tr>
-<td>4</td>
-<td>Place <em>The Snag</em> on <a href="#when-that-thing-happens-that-changes-everything">The Before</a> or next to <a href="#when-that-thing-happens-that-changes-everything">The After</a>. The card on top of the selected pile is now <em>The Scene</em>. Describe how the obstacle presents itself in <em>The Scene</em>.</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>5</td>
-<td>Choose one: <ul><li>After <em>The Plan</em> and <em>The Detail</em> are chosen, choose an action as <em>The Action</em>. Record on <em>The Scene</em>.</li><li>Choose a plan as <em>The Plan</em>. Record on <em>The Scene</em>.</li></ul></td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>6</td>
-<td></td>
-<td>The producer performs the option not chosen in the previous step.</td>
-<td></td>
-</tr>
-<tr>
-<td>7</td>
-<td></td>
-<td></td>
-<td>Choose the <em>Detail</em> for <em>The Plan</em>. Record on <em>The Scene</em>.</td>
-</tr>
-<tr>
-<td>8</td>
-<td>Make an <a href="#engagement-roll">Engagement Roll</a> (1). If <em>The Action</em> is one of your hype actions, You may establish how the action helps or hinders your chances to instead make an <a href="#engagement-roll">Engagement Roll</a> (2).</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>9</td>
-<td>Play out <a href="#the-scene">The Scene</a>.</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>10</td>
-<td>If <em>The Snag</em> was placed next to <a href="#when-that-thing-happens-that-changes-everything">The After</a>, place it on top and give a quick preview of what might happen.</td>
-<td></td>
-<td></td>
-</tr>
-<tr>
-<td>11</td>
-<td>Pass role card to the right.</td>
-<td>Pass role card to the right.</td>
-<td>Pass role card to the right.</td>
-</tr>
-</tbody>
-</table><h3 id="the-scene">The Scene</h3>
+<ol>
+<li><em>(director)</em> <strong>Previously…</strong> — If <a href="#when-that-thing-happens-that-changes-everything">The Before</a> has not been recapped, give a short description of what happened.</li>
+<li><em>(producer)</em> <strong>The Focus</strong> — Choose a focus as <em>The Focus</em>.</li>
+<li><em>(writer)</em>  <strong>The Snag</strong> — Choose a snag card from <em>The Focus</em> as <em>The Snag</em> must be different than <em>The Before</em> and <em>The After</em>. Give <em>The Snag</em> to <em>The Director</em>.</li>
+<li><em>(director)</em> <strong>The Scene</strong> — Place <em>The Snag</em> on <a href="#when-that-thing-happens-that-changes-everything">The Before</a> or next to <a href="#when-that-thing-happens-that-changes-everything">The After</a>. The card on top of the selected pile is now <em>The Scene</em>. Describe how the obstacle presents itself in <em>The Scene</em>.</li>
+<li><em>(director)</em> <strong>The Action / The Plan</strong> — Choose one:<br>
+* After <em>The Plan</em> and <em>The Detail</em> are chosen, choose an action as <em>The Action</em>. Record on <em>The Scene</em>.<br>
+* Choose a plan as <em>The Plan</em>. The <em>writer</em> will always choose the <em>Detail</em>. Record on <em>The Scene</em>.</li>
+<li><em>(producer)</em> <strong>The Plan / The Action</strong> — The producer then performs the option not chosen in step 5</li>
+<li><em>(writer)</em> <strong>The Detail</strong> — choose the <em>Detail</em> for <em>The Plan</em>. Record on <em>The Scene</em>.</li>
+<li><em>(director)</em> <strong>The Position</strong> — Make an <a href="#engagement-roll">Engagement Roll</a> (1). If <em>The Action</em> is one of your hype actions, You may establish how the action helps or hinders your chances to instead make an <a href="#engagement-roll">Engagement Roll</a> (2).</li>
+<li><em>(director)</em> <strong>The Scene</strong> — Play out <a href="#the-scene">The Scene</a>.</li>
+<li><em>(director)</em> <strong>Next Time…</strong> — If <em>The Snag</em> was placed next to <a href="#when-that-thing-happens-that-changes-everything">The After</a>, place it on top and give a quick preview of what might happen.</li>
+<li><em>(all)</em> <strong>pass</strong> — Everyone with a role card passes it one player to the right.</li>
+</ol>
+<h3 id="the-scene">The Scene</h3>
 <ol>
 <li>If your position is <em>Risky</em>, what are you about to lose? If your position is <em>Desperate</em>, what did you already lose? Record on <em>The Scene</em>.</li>
 <li><a href="#choosing-a-location">Choose a location</a>. Record on <em>The Scene</em>.</li>
