@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Greenlight"
-published: false
+preview: true
 categories: [Games]
 tags: [story-rich, gm-less, television]
 
@@ -303,6 +303,7 @@ tags: [story-rich, gm-less, television]
 <p><img src="https://yggilabs.github.io/blog/images/examples/location.JPG" alt="example location"></p>
 <h2 id="acknowledgements">Acknowledgements</h2>
 <p>If you are familiar with the works of Jason Morningstar’s <a href="http://bullypulpitgames.com/games/fiasco/">Fiasco</a>, Ben Robbins’ <a href="http://www.lamemage.com/microscope/">Microscope</a>  or, John Harper’s <a href="http://www.bladesinthedark.com/">Blades in the Dark</a>, you you will surely notice the huge impact they have had on this project. Without these works and the works of many others, this project would not be the same. My most sincere thanks to all those who have inspired me!</p>
+<p>A very special thanks to my playtesters!</p>
 <h2 id="legal-stuff">Legal Stuff</h2>
 <p>This work is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.</p>
 <p>This work is based on <a href="http://www.bladesinthedark.com/">Blades in the Dark</a>, product of One Seven Design, developed and authored by John Harper, and licensed for our use under the <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported license</a>.</p>
