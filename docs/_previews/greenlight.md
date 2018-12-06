@@ -9,9 +9,6 @@ tags: [story-rich, gm-less, television]
 
 <h1 id="about">About</h1>
 <p>Greenlight is a roleplaying game in which you will direct, produce, write and star in your own television series. Each player will create a character that is the star of their own story-line. Together, you will explore the story of an entire television season in a single session.</p>
-<blockquote>
-<p>This rules preview is provided free of charge. If you would like to support me in making more content like this, consider supporting me on <a href="https://www.patreon.com/join/skelley?">Patreon</a>.</p>
-</blockquote>
 <h1 id="rules">Rules</h1>
 <h2 id="the-basics">The Basics</h2>
 <h3 id="what-youll-need">What you’ll Need</h3>
