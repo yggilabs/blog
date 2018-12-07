@@ -38,7 +38,7 @@ tags: [story-rich, gm-less, television]
 <blockquote>
 <p>We all know that every story has a beginning and an end. In this game, each character solidifies both these points when they start a season. We play the game to find out what happens in between.</p>
 <p>As we craft each scene, it is connected to an ever growing chain of scenes rooted in either the beginning or the end of a character’s story. The stuff in between remains unknown.</p>
-<p>We explore the unknown by probing it’s edges. The points closest to what we already know.  These points are known as <a href="#when-that-thing-happens-that-changes-everything">The Before</a> and <a href="#when-that-thing-happens-that-changes-everything">The After</a> because they are the points immediately before or after the unknown part of our story.</p>
+<p>We explore the unknown by probing it’s edges. The points closest to what we already know. These points are known as <a href="#when-that-thing-happens-that-changes-everything">The Before</a> and <a href="#when-that-thing-happens-that-changes-everything">The After</a> because they are the points immediately before or after the unknown part of our story.</p>
 </blockquote>
 <p>If this is your first session or, you are beginning a new series, follow the steps in <a href="#the-season">The Season</a>.</p>
 <h2 id="the-season">The Season</h2>
@@ -120,7 +120,7 @@ tags: [story-rich, gm-less, television]
 <ol>
 <li><em>(director)</em> <strong>Previously…</strong> — If <a href="#when-that-thing-happens-that-changes-everything">The Before</a> has not been recapped, give a short description of what happened.</li>
 <li><em>(producer)</em> <strong>The Focus</strong> — Choose a focus as <em>The Focus</em>.</li>
-<li><em>(writer)</em>  <strong>The Snag</strong> — Choose a snag card from <em>The Focus</em> as <em>The Snag</em> must be different than <em>The Before</em> and <em>The After</em>. Give <em>The Snag</em> to <em>The Director</em>.</li>
+<li><em>(writer)</em> <strong>The Snag</strong> — Choose a snag card from <em>The Focus</em> as <em>The Snag</em> must be different than <em>The Before</em> and <em>The After</em>. Give <em>The Snag</em> to <em>The Director</em>.</li>
 <li><em>(director)</em> <strong>The Scene</strong> — Place <em>The Snag</em> on <a href="#when-that-thing-happens-that-changes-everything">The Before</a> or next to <a href="#when-that-thing-happens-that-changes-everything">The After</a>. The card on top of the selected pile is now <em>The Scene</em>. Describe how the obstacle presents itself in <em>The Scene</em>.</li>
 <li><em>(director)</em> <strong>The Action / The Plan</strong> — Choose one:
 <ul>
@@ -170,7 +170,7 @@ tags: [story-rich, gm-less, television]
 <li>add a detail to a location</li>
 <li>add a detail to a character</li>
 <li>remove an action</li>
-<li>change the detail of a  plan</li>
+<li>change the detail of a plan</li>
 </ul>
 <blockquote>
 <p>goals</p>
@@ -216,12 +216,12 @@ tags: [story-rich, gm-less, television]
 <p>See <a href="#example-actions">example</a></p>
 <p><strong>Default Plans</strong></p>
 <ul>
-<li><strong>Assault</strong> — Do violence to a target.  <em>Detail: The point of attack</em>.</li>
-<li><strong>Deception</strong> — Lure, trick, or manipulate.  <em>Detail: The method of deception.</em></li>
-<li><strong>Stealth</strong> — Trespass unseen.  <em>Detail: The point of infiltration.</em></li>
-<li><strong>Occult</strong> — Engage a supernatural power.  <em>Detail: The arcane method.</em></li>
-<li><strong>Social</strong> — Negotiate, bargain, or persuade.  <em>Detail: The social connection.</em></li>
-<li><strong>Transport</strong> — Carry cargo or people through danger.  <em>Detail: The route and means.</em></li>
+<li><strong>Assault</strong> — Do violence to a target. <em>Detail: The point of attack</em>.</li>
+<li><strong>Deception</strong> — Lure, trick, or manipulate. <em>Detail: The method of deception.</em></li>
+<li><strong>Stealth</strong> — Trespass unseen. <em>Detail: The point of infiltration.</em></li>
+<li><strong>Occult</strong> — Engage a supernatural power. <em>Detail: The arcane method.</em></li>
+<li><strong>Social</strong> — Negotiate, bargain, or persuade. <em>Detail: The social connection.</em></li>
+<li><strong>Transport</strong> — Carry cargo or people through danger. <em>Detail: The route and means.</em></li>
 </ul>
 <p>See <a href="#example-plans">example</a></p>
 <h2 id="guidance">Guidance</h2>
@@ -231,7 +231,7 @@ tags: [story-rich, gm-less, television]
 <p>Sometimes you may be required to turn a card sideways. I use landscape as the normal orientation and, portrait as sideways. It doesn’t matter just pick one and be consistent in your group.</p>
 <h3 id="when-that-thing-happens-that-changes-everything">When that thing happens that changes everything</h3>
 <p>At some point in the story a thing happens, it changes everything! Or maybe it doesn’t… Or maybe its ripples are felt in subtle ways which we are not meant to understand. Sometimes the thing is the same thing for all the characters and sometimes the thing is a different thing.</p>
-<p>The point is, there is a thing which we don’t name and we don’t talk about that separates the story into two parts. The parts that happen before it from the parts that happen after it.  We call the before part of our story <em>The Before</em> and we represent it with a pile of cards in front of us and to the left. Likewise, We call the after part of our story <em>The After</em> and we represent it with a pile of cards in front of us and to the right.</p>
+<p>The point is, there is a thing which we don’t name and we don’t talk about that separates the story into two parts. The parts that happen before it from the parts that happen after it. We call the before part of our story <em>The Before</em> and we represent it with a pile of cards in front of us and to the left. Likewise, We call the after part of our story <em>The After</em> and we represent it with a pile of cards in front of us and to the right.</p>
 <h3 id="when-you-take-five">When you take five</h3>
 <p>You are going to work on <em>The Pilot</em> and you are going to create an awesome setup for a melodrama about a group of time-traveling android archaeologists in some kind of love dodecahedron. Then, the rules are going to tell you to <em>take 5</em> and you are going to want to ignore it. DON’T! The breaks are there for a reason. They will give your group time to use the bathroom or grab snacks without interrupting the flow of the game later on. They also gives you some time to turn things over in your own brain or lets you talk about things with another player outside the rules of the game.</p>
 <h3 id="when-you-cant-agree">When you can’t agree</h3>
