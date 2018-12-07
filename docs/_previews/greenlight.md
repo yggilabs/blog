@@ -34,6 +34,12 @@ tags: [story-rich, gm-less, television]
 <p>Why would you ever choose a <em>Desperate</em> position? See <a href="#the-wrap">The Wrap</a></p>
 </blockquote>
 <h3 id="starting-the-game">Starting the Game</h3>
+<p>If this is anyone’s first time playing, read this aloud.</p>
+<blockquote>
+<p>We all know that each story has a beginning and an end. In this game, each character solidifies these two points at the beginning of a season. We play to find out what happens in between.</p>
+<p>As we craft each scene, it is connected to an ever growing chain rooted in either the beginning or the end of a character’s story. The stuff in between is still unknown.</p>
+<p>We explore the unknown by probing it’s edges. The points closest to what we already know.  These points are known as <a href="#when-that-thing-happens-that-changes-everything">The Before</a> and <a href="#when-that-thing-happens-that-changes-everything">The After</a> because they are the points immediately before or after the unknown part of our  story.</p>
+</blockquote>
 <p>If this is your first session or, you are beginning a new series, follow the steps in <a href="#the-season">The Season</a>.</p>
 <h2 id="the-season">The Season</h2>
 <ol>
@@ -157,6 +163,7 @@ tags: [story-rich, gm-less, television]
 <li>try to figure out what is happening in the gap?</li>
 <li>give a player authority based on the current score?</li>
 <li>provide some general twist?</li>
+<li>edit the play options?</li>
 </ul>
 </blockquote>
 <h2 id="the-wrap">The Wrap</h2>
@@ -242,7 +249,8 @@ tags: [story-rich, gm-less, television]
 <p>If you are familiar with the works of Jason Morningstar’s <a href="http://bullypulpitgames.com/games/fiasco/">Fiasco</a>, Ben Robbins’ <a href="http://www.lamemage.com/microscope/">Microscope</a> or, John Harper’s <a href="http://www.bladesinthedark.com/">Blades in the Dark</a>, you you will surely notice the huge impact they have had on this project. Without these works and the works of many others, this project would not be the same. My most sincere thanks to all those who have inspired me!</p>
 <p>A very special thanks to my playtesters!</p>
 <h2 id="legal-stuff">Legal Stuff</h2>
-<p>This work is licensed under a <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported License</a>.</p>
+<p>Greenlight was created by Samuel Kelley.</p>
+<p>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
 <p>This work is based on <a href="http://www.bladesinthedark.com/">Blades in the Dark</a>, product of One Seven Design, developed and authored by John Harper, and licensed for our use under the <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported license</a>.</p>
 <h2 id="changelog">Changelog</h2>
 <h3 id="unreleased">Unreleased</h3>
