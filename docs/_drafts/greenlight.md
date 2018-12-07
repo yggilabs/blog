@@ -117,6 +117,7 @@ tags: [story-rich, gm-less, television]
 <p>Write down a complication which may arise when exploring a specific focus, keep it to a few words or less. Place it next to that focus.</p>
 <p>See <a href="#example-snag">example</a></p>
 <h2 id="the-shoot">The Shoot</h2>
+<p>This is the part of the game you will spend the most time in. It is meant to flow as a conversation would. Authority switches among the roles but, stay engaged when it isn’t your turn. Remember what is expected of your <a href="#how-to-behave">behavior</a>.</p>
 <ol>
 <li><em>(director)</em> <strong>Previously…</strong> — If <a href="#when-that-thing-happens-that-changes-everything">The Before</a> has not been recapped, give a short description of what happened.</li>
 <li><em>(producer)</em> <strong>The Focus</strong> — Choose a focus as <em>The Focus</em>.</li>
@@ -193,9 +194,9 @@ tags: [story-rich, gm-less, television]
 </blockquote>
 <p>Otherwise,</p>
 <blockquote>
-<p><em>Your character has faded into the background, they are clearly not as relevant as you thought. better luck next season if you are still on the show</em></p>
+<p><em>You fade into the background, you are clearly not as relevant as you thought. Better luck next season if you are still on the show</em></p>
 </blockquote>
-<p>Choose either The After or The Before. Taking turns with the other players, move the card on top of this pile to the other one. As you do, narrate a scene from a montage show how your outcome plays out. If you chosen pile is [The Before], the montage takes place in the unknown period of time. If you chose [The After], the montage takes place after this season but before the next one.</p>
+<p>Choose either The After or The Before. Taking turns with the other players, move the card on top of this pile to the other one. As you do, narrate a scene from a montage show how your outcome plays out.</p>
 <h1 id="appendices">Appendices</h1>
 <h2 id="lists">Lists</h2>
 <p><strong>Default Actions</strong></p>
