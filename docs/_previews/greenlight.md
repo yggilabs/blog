@@ -36,9 +36,9 @@ tags: [story-rich, gm-less, television]
 <h3 id="starting-the-game">Starting the Game</h3>
 <p>If this is anyone’s first time playing, read this aloud.</p>
 <blockquote>
-<p>We all know that each story has a beginning and an end. In this game, each character solidifies these two points at the beginning of a season. We play to find out what happens in between.</p>
-<p>As we craft each scene, it is connected to an ever growing chain rooted in either the beginning or the end of a character’s story. The stuff in between is still unknown.</p>
-<p>We explore the unknown by probing it’s edges. The points closest to what we already know.  These points are known as <a href="#when-that-thing-happens-that-changes-everything">The Before</a> and <a href="#when-that-thing-happens-that-changes-everything">The After</a> because they are the points immediately before or after the unknown part of our  story.</p>
+<p>We all know that every story has a beginning and an end. In this game, each character solidifies both these points when they start a season. We play the game to find out what happens in between.</p>
+<p>As we craft each scene, it is connected to an ever growing chain of scenes rooted in either the beginning or the end of a character’s story. The stuff in between remains unknown.</p>
+<p>We explore the unknown by probing it’s edges. The points closest to what we already know.  These points are known as <a href="#when-that-thing-happens-that-changes-everything">The Before</a> and <a href="#when-that-thing-happens-that-changes-everything">The After</a> because they are the points immediately before or after the unknown part of our story.</p>
 </blockquote>
 <p>If this is your first session or, you are beginning a new series, follow the steps in <a href="#the-season">The Season</a>.</p>
 <h2 id="the-season">The Season</h2>
@@ -84,6 +84,7 @@ tags: [story-rich, gm-less, television]
 <p>Things you keep are what you definitely want to be a part of your game. Things you cut from the trailer are things you definitely don’t want in the game.</p>
 <p>When it is your turn to write one of these down, you have the final say, Say yes to ideas you are exited to explore. Say no to ideas that are over used or obnoxious.</p>
 <p>After the first round, go around again. If everyone had something to add, keep going around.</p>
+<p>See <a href="#example-pitch">example</a></p>
 <h3 id="creating-a-focus">Creating a Focus</h3>
 <p>Grab a blank card.</p>
 <p>Write down a topic that you want everyone to explore, keep it to a few words or less. Place it near the middle of the table.</p>
@@ -97,6 +98,11 @@ tags: [story-rich, gm-less, television]
 <li>In one line, write what your character wants to accomplish this season. Record on your <em>Agenda</em></li>
 <li>Place your <em>Character</em> on your left. This is the begging of your pile know as <a href="#when-that-thing-happens-that-changes-everything">The Before</a>.</li>
 <li>Place your <em>Agenda</em> upside-down and sideways on your right. This is the begging of your pile known as <a href="#when-that-thing-happens-that-changes-everything">The After</a>.</li>
+<li>
+<blockquote>
+<p>Add an item to location or cast</p>
+</blockquote>
+</li>
 </ol>
 <p>See <a href="#example-character">example</a></p>
 <h3 id="creating-a-snag">Creating a Snag</h3>
@@ -154,15 +160,26 @@ tags: [story-rich, gm-less, television]
 </ol>
 <h3 id="choosing-a-hype">Choosing a Hype</h3>
 <p>Tell the player which action you are most interested in seeing their character use. That player records the action on their <em>Character</em> as a <em>Hype</em>.</p>
+<p>See <a href="#example-character">example</a></p>
 <h3 id="creating-a-crew">Creating a Crew</h3>
 <p>Create crew cards for the following roles: Producer, Director, Writer. Just write the roles on some blank cards. Grab extra blank cards for each player above three. Shuffle all the cards and deal them out.</p>
 <h2 id="the-twist">The Twist</h2>
 <blockquote>
 <p>WIP — skip for now.</p>
+</blockquote>
+<p>For each sideways scene a player has, they may do one of the following:</p>
+<ul>
+<li>add a detail to a location</li>
+<li>add a detail to a character</li>
+<li>remove an action</li>
+<li>change the detail of a  plan</li>
+</ul>
+<blockquote>
+<p>goals</p>
 <ul>
 <li>try to figure out what is happening in the gap?</li>
 <li>give a player authority based on the current score?</li>
-<li>provide some general twist?</li>
+<li>provide some narrative plot twist?</li>
 <li>edit the play options?</li>
 </ul>
 </blockquote>
@@ -174,9 +191,23 @@ tags: [story-rich, gm-less, television]
 <li>Good and bad outcomes are good. Middling outcomes are bad</li>
 <li>player with most sideways cards get what they want in a bad way.</li>
 <li>player with fewest sideways cards gets what they want ina good way.</li>
-<li>Everyone else doesn’t get what they wantd6</li>
+<li>Everyone else doesn’t get what they want</li>
 </ul>
 </blockquote>
+<p>Count the number of sideways scenes you have, this is your score.</p>
+<p>If you have higher score than any other player,</p>
+<blockquote>
+<p><em>You have lost almost everything and, you are stronger because of it. Everyone despises or pities you but, either way they respect you.</em></p>
+</blockquote>
+<p>If you have lower score than any other player,</p>
+<blockquote>
+<p><em>You have had some close calls but, you have come out of the situation with the most important things intact. Everyone adores you… well, almost everyone</em></p>
+</blockquote>
+<p>Otherwise,</p>
+<blockquote>
+<p><em>Your character has faded into the background, they are clearly not as relevant as you thought. better luck next season if you are still on the show</em></p>
+</blockquote>
+<p>Choose either The After or The Before. Taking turns with the other players, move the card on top of this pile to the other one. As you do, narrate a scene from a montage show how your outcome plays out. If you chosen pile is [The Before], the montage takes place in the unknown period of time. If you chose [The After], the montage takes place after this season but before the next one.</p>
 <h1 id="appendices">Appendices</h1>
 <h2 id="lists">Lists</h2>
 <p><strong>Default Actions</strong></p>
@@ -250,7 +281,7 @@ tags: [story-rich, gm-less, television]
 <p>A very special thanks to my playtesters!</p>
 <h2 id="legal-stuff">Legal Stuff</h2>
 <p>Greenlight was created by Samuel Kelley.</p>
-<p>This work is licensed under a <a href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.</p>
+<p>This work is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</p>
 <p>This work is based on <a href="http://www.bladesinthedark.com/">Blades in the Dark</a>, product of One Seven Design, developed and authored by John Harper, and licensed for our use under the <a href="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution 3.0 Unported license</a>.</p>
 <h2 id="changelog">Changelog</h2>
 <h3 id="unreleased">Unreleased</h3>
