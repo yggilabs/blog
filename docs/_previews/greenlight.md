@@ -97,14 +97,21 @@ tags: [story-rich, gm-less, television]
 <li>Make up a short description. Record on your <em>Character</em></li>
 <li>In one line, write what your character wants to accomplish this season. Record on your <em>Agenda</em></li>
 <li>Place your <em>Character</em> on your left. This is the begging of your pile know as <a href="#when-that-thing-happens-that-changes-everything">The Before</a>.</li>
-<li>Place your <em>Agenda</em> upside-down and sideways on your right. This is the begging of your pile known as <a href="#when-that-thing-happens-that-changes-everything">The After</a>.</li>
-<li>
-<blockquote>
-<p>Add an item to location or cast</p>
-</blockquote>
+<li>Place your <em>Agenda</em> sideways on your right. This is the begging of your pile known as <a href="#when-that-thing-happens-that-changes-everything">The After</a>.</li>
+<li>Choose one:
+<ul>
+<li><a href="#creating-an-extra">Create an extra</a> that you have or want to have a relationship with.</li>
+<li><a href="#creating-a-location">Create a location</a> that you have or want to go to.</li>
+</ul>
 </li>
 </ol>
 <p>See <a href="#example-character">example</a></p>
+<h3 id="creating-an-extra">Creating an Extra</h3>
+<p>Grab an index card write down a name and a quick description. Set that card down in the middle for everyone to see. Something like <em>Doris, The elderly bank-teller</em> works fine.</p>
+<p>See <a href="#example-cast">example</a></p>
+<h3 id="creating-a-location">Creating a Location</h3>
+<p>Grab an index card write down a name and a quick description. Set that card down in the middle for everyone to see. Something like <em>Poorly-managed Convenience Store</em> works fine.</p>
+<p>See <a href="#example-location">example</a></p>
 <h3 id="creating-a-snag">Creating a Snag</h3>
 <p>Grab a blank card.</p>
 <p>Write down a complication which may arise when exploring a specific focus, keep it to a few words or less. Place it next to that focus.</p>
@@ -115,13 +122,12 @@ tags: [story-rich, gm-less, television]
 <li><em>(producer)</em> <strong>The Focus</strong> — Choose a focus as <em>The Focus</em>.</li>
 <li><em>(writer)</em>  <strong>The Snag</strong> — Choose a snag card from <em>The Focus</em> as <em>The Snag</em> must be different than <em>The Before</em> and <em>The After</em>. Give <em>The Snag</em> to <em>The Director</em>.</li>
 <li><em>(director)</em> <strong>The Scene</strong> — Place <em>The Snag</em> on <a href="#when-that-thing-happens-that-changes-everything">The Before</a> or next to <a href="#when-that-thing-happens-that-changes-everything">The After</a>. The card on top of the selected pile is now <em>The Scene</em>. Describe how the obstacle presents itself in <em>The Scene</em>.</li>
-<li><em>(director)</em> <strong>The Action / The Plan</strong> — Choose one:</li>
-</ol>
+<li><em>(director)</em> <strong>The Action / The Plan</strong> — Choose one:
 <ul>
 <li>After <em>The Plan</em> and <em>The Detail</em> are chosen, choose an action as <em>The Action</em>. Record on <em>The Scene</em>.</li>
 <li>Choose a plan as <em>The Plan</em>. The <em>writer</em> will always choose the <em>Detail</em>. Record on <em>The Scene</em>.</li>
 </ul>
-<ol start="6">
+</li>
 <li><em>(producer)</em> <strong>The Plan / The Action</strong> — The producer then performs the option not chosen in step 5</li>
 <li><em>(writer)</em> <strong>The Detail</strong> — choose the <em>Detail</em> for <em>The Plan</em>. Record on <em>The Scene</em>.</li>
 <li><em>(director)</em> <strong>The Position</strong> — Make an <a href="#engagement-roll">Engagement Roll</a> (1). If <em>The Action</em> is one of your hype actions, You may establish how the action helps or hinders your chances to instead make an <a href="#engagement-roll">Engagement Roll</a> (2).</li>
@@ -134,23 +140,15 @@ tags: [story-rich, gm-less, television]
 <li>If your position is <em>Risky</em>, what are you about to lose? If your position is <em>Desperate</em>, what did you already lose? Record on <em>The Scene</em>.</li>
 <li><a href="#choosing-a-location">Choose a location</a>. Record on <em>The Scene</em>.</li>
 <li>Describe what the camera sees in the moments before the scene unfolds.</li>
-<li><a href="#choosing-a-cast">Choose a cast</a>. Record on <em>The Scene</em>. Assign each role to a Player. Players may have more than one role. Players always play their own character.</li>
+<li><a href="#choosing-extra">Choose extras</a>. Record on <em>The Scene</em>. Assign each role to a Player. Players may have more than one role. Players always play their own character.</li>
 <li>Find out what happens. If your position is <em>Desperate</em>, turn <em>The Scene</em> <a href="#when-things-go-sideways">sideways</a>.</li>
 </ol>
 <p>See <a href="#example-scene">example</a></p>
-<h3 id="choosing-a-cast">Choosing a Cast</h3>
-<p>If you need a character that doesn’t already belong to player, you have two options.</p>
-<ul>
-<li><em>Make One</em> — Grab an index card write down a name and a quick description. Set that card down in the middle for everyone to see. Something like <em>Doris, The elderly bank-teller</em> works fine.</li>
-<li><em>Take One</em> — Take a character from those previously made. Need an innocent bystander during your convenience store robbery? Just put <em>Doris, The elderly bank-teller</em> in harm’s way.</li>
-</ul>
+<h3 id="choosing-extras">Choosing Extras</h3>
+<p>If you need a character that doesn’t already belong to player, you have two options. Take one or<a href="#creating-an-extra">make one</a>.</p>
 <p>See <a href="#example-cast">example</a></p>
 <h3 id="choosing-a-location">Choosing a Location</h3>
-<p>If you need a location, you have two options.</p>
-<ul>
-<li><em>Make One</em> — Grab an index card write down a name and a quick description. Set that card down in the middle for everyone to see. Something like <em>Poorly-managed Convenience Store</em> works fine.</li>
-<li><em>Take One</em> — Take a location from those previously made. Need a place to rob? Just visit the <em>Poorly-managed Convenience Store</em>.</li>
-</ul>
+<p>If you need a location, you have two options. Take one or<a href="#creating-a-location">make one</a>.</p>
 <p>See <a href="#example-location">example</a></p>
 <h2 id="the-break">The Break</h2>
 <ol>
@@ -184,20 +182,10 @@ tags: [story-rich, gm-less, television]
 </ul>
 </blockquote>
 <h2 id="the-wrap">The Wrap</h2>
-<blockquote>
-<p>WIP — bullet points. fiasco style ending.</p>
-<ul>
-<li>do epilogues, fill in the gap.</li>
-<li>Good and bad outcomes are good. Middling outcomes are bad</li>
-<li>player with most sideways cards get what they want in a bad way.</li>
-<li>player with fewest sideways cards gets what they want ina good way.</li>
-<li>Everyone else doesn’t get what they want</li>
-</ul>
-</blockquote>
 <p>Count the number of sideways scenes you have, this is your score.</p>
 <p>If you have higher score than any other player,</p>
 <blockquote>
-<p><em>You have lost almost everything and, you are stronger because of it. Everyone despises or pities you but, either way they respect you.</em></p>
+<p><em>You have lost almost everything and, you are stronger because of it. Everyone despises or pities you but, either way they must respect that you are still here.</em></p>
 </blockquote>
 <p>If you have lower score than any other player,</p>
 <blockquote>
