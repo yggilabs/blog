@@ -45,7 +45,7 @@ structure to encounters ranging from parleying with a pirate captain<br>
 to a gang heist gone sideways.</p>
 </blockquote>
 <h2 id="combating-combat">Combating Combat</h2>
-<p>At the beginning of a session make note of <a href="#encounter-tier">encounter tier</a>, <a href="#encounter-dc">encounter DC</a> and <a href="#encounter-challenge">encounter challenge</a>. The first step of running an encounter using these rules  is for the DM to <a href="#frame">Frame</a> the scene. Then, the players <a href="#act">Act</a> until they overcome the challenge — or give up. Finally, the DM will <a href="#reward">Reward</a> characters for the encounter.</p>
+<p>At the beginning of a session make note of <a href="#encounter-tier">encounter tier</a>, <a href="#encounter-dc">encounter DC</a> and <a href="#encounter-challenge">encounter challenge</a>. The first step of running an encounter using these rules is for the DM to <a href="#frame">Frame</a> the scene. Then, the players <a href="#act">Act</a> until they overcome the challenge — or give up. Finally, the DM will <a href="#reward">Reward</a> characters for the encounter.</p>
 <h3 id="frame">Frame</h3>
 <p>As the DM using these rules, your main job in setting up an encounter is to frame the scene. Some details are required just to understand the scenario. However, think about the points of strength and weakness present in your encounter. Be sure to describe at least one detail which may be used used advantageously for the players or may cause them some amount of disadvantage if not handled properly.</p>
 <blockquote>
