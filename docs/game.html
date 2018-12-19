@@ -76,7 +76,7 @@
   <amp-list layout="fixed-height"
     height="1000"
     items="."
-    single-item="true"
+    single-item=
     src="https://us-central1-greenlight-49aab.cloudfunctions.net/api/board/qMDGHBv2yxKqJsi8zWNV">
     <template type="amp-mustache">
       <h1>Greenlight {{boardId}}</h1>
@@ -103,6 +103,8 @@
         </li>
       </ul>
     </template>
+    <div placeholder>Loading ...</div>
+    <div fallback>Failed to load data.</div>
   </amp-list>
 </body>
 </html>

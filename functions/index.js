@@ -74,26 +74,37 @@ const app_functions = {
         doc.data(),
         {
           boardId: doc.id,
+          endpoints: {
+            "column": "",
+          },
           columns: Object.entries(doc.data().columns).map(a =>
             Object.assign(
               a[1],
               {
+                endpoints: {
+                  "order": "",
+                  "card": ""
+                },
                 boardId: doc.id,
                 columnId: a[0],
                 cards:
                   Object.entries(a[1].cards).map(b =>
                     Object.assign(
                       {
+                        endpoints: {
+                          "order": "",
+                          "body": "",
+                        },
                         boardId: doc.id,
                         columnId: a[0],
                         cardId: b[0]
                       },
                       b[1]
                     )
-                  )
+                  ).sort((a,b) => a.order - b.order)
               }
             )
-          )
+          ).sort((a,b) => a.order - b.order)
         }
       ),
     "sort": s => {
@@ -212,7 +223,6 @@ app.post('/board/:boardId/column/:columnId/card/', (req, res) =>
       app_functions.update.board.dirty(req.params.boardId))
     .then(doc =>
       res.json({result: "ok"})));
-
 
 app.post('/board/:boardId/column/:columnId/order/:orderValue', (req, res) =>
   app_functions.update.column.order(req.params.boardId, req.params.columnId, req.params.orderValue)
