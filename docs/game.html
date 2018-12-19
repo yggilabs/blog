@@ -72,25 +72,50 @@
   <style amp-boilerplate>body{-webkit-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-moz-animation:-amp-start 8s steps(1,end) 0s 1 normal both;-ms-animation:-amp-start 8s steps(1,end) 0s 1 normal both;animation:-amp-start 8s steps(1,end) 0s 1 normal both}@-webkit-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-moz-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-ms-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@-o-keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}@keyframes -amp-start{from{visibility:hidden}to{visibility:visible}}</style><noscript><style amp-boilerplate>body{-webkit-animation:none;-moz-animation:none;-ms-animation:none;animation:none}</style></noscript>
 </head>
 <body>
+  <!--
+  <h1>Greenlight {{boardId}}</h1>
+  <ul id="{{boardId}}" class="app__board">
+    {{#columns}}
+    <li id="{{columnId}}" class="app__column flex-order-{{order}}">
+     <h2>Column {{columnId}}</h2>
+     <form method="post"
+       action-xhr="https://us-central1-greenlight-49aab.cloudfunctions.net/api/board/{{boardId}}/column/{{columnId}}/card/">
+       <input type="submit" value="+ card">
+     </form>
+     <ul>
+        {{#cards}}
+        <li id="{{cardId}}" class="app__card flex-order-{{order}}">{{cardId}}</li>
+        {{/cards}}
+      </ul>
+    </li>
+    {{/columns}}
+    <li class="app__column flex-order-max}}">
+      <form method="post"
+        action-xhr="https://us-central1-greenlight-49aab.cloudfunctions.net/api/board/{{columnId}}/column/">
+        <input type="submit" value="+ column">
+      </form>
+    </li>
+  </ul>
+  -->
   <h1>Greenlight qMDGHBv2yxKqJsi8zWNV</h1>
   <ul id="qMDGHBv2yxKqJsi8zWNV" class="app__board">
     <li id="ISgrtIXW24ze6zIVUIon" class="app__column flex-order-1">
      <h2>Column ISgrtIXW24ze6zIVUIon</h2>
      <form method="post"
-       action-xhr="https://us-central1-greenlight-49aab.cloudfunctions.net/api/board//column/ISgrtIXW24ze6zIVUIon/card/">
+       action-xhr="https://us-central1-greenlight-49aab.cloudfunctions.net/api/board/qMDGHBv2yxKqJsi8zWNV/column/ISgrtIXW24ze6zIVUIon/card/">
        <input type="submit" value="+ card">
      </form>
      <ul>
-        <li id="AF2AkdFlKXxO5z2i6oso" class="app__card flex-order-1">AF2AkdFlKXxO5z2i6oso</li>
-        <li id="WsOD5hq8D2I0UCkhaWv0" class="app__card flex-order-2">WsOD5hq8D2I0UCkhaWv0</li>
         <li id="Dy7Q5H3QLRrXzdkvETjI" class="app__card flex-order-0">Dy7Q5H3QLRrXzdkvETjI</li>
         <li id="8vtzrNzSpMrWxv9CKpOt" class="app__card flex-order-3">8vtzrNzSpMrWxv9CKpOt</li>
+        <li id="AF2AkdFlKXxO5z2i6oso" class="app__card flex-order-1">AF2AkdFlKXxO5z2i6oso</li>
+        <li id="WsOD5hq8D2I0UCkhaWv0" class="app__card flex-order-2">WsOD5hq8D2I0UCkhaWv0</li>
       </ul>
     </li>
     <li id="qDyDpUyefkknyNuSBAk1" class="app__column flex-order-4">
      <h2>Column qDyDpUyefkknyNuSBAk1</h2>
      <form method="post"
-       action-xhr="https://us-central1-greenlight-49aab.cloudfunctions.net/api/board//column/qDyDpUyefkknyNuSBAk1/card/">
+       action-xhr="https://us-central1-greenlight-49aab.cloudfunctions.net/api/board/qMDGHBv2yxKqJsi8zWNV/column/qDyDpUyefkknyNuSBAk1/card/">
        <input type="submit" value="+ card">
      </form>
      <ul>
@@ -99,7 +124,7 @@
     <li id="dDJwQbLOn1NnAkoI1Xfe" class="app__column flex-order-3">
      <h2>Column dDJwQbLOn1NnAkoI1Xfe</h2>
      <form method="post"
-       action-xhr="https://us-central1-greenlight-49aab.cloudfunctions.net/api/board//column/dDJwQbLOn1NnAkoI1Xfe/card/">
+       action-xhr="https://us-central1-greenlight-49aab.cloudfunctions.net/api/board/qMDGHBv2yxKqJsi8zWNV/column/dDJwQbLOn1NnAkoI1Xfe/card/">
        <input type="submit" value="+ card">
      </form>
      <ul>
@@ -108,7 +133,7 @@
     <li id="UUtoP44mGjdQ9brnJXTW" class="app__column flex-order-2">
      <h2>Column UUtoP44mGjdQ9brnJXTW</h2>
      <form method="post"
-       action-xhr="https://us-central1-greenlight-49aab.cloudfunctions.net/api/board//column/UUtoP44mGjdQ9brnJXTW/card/">
+       action-xhr="https://us-central1-greenlight-49aab.cloudfunctions.net/api/board/qMDGHBv2yxKqJsi8zWNV/column/UUtoP44mGjdQ9brnJXTW/card/">
        <input type="submit" value="+ card">
      </form>
      <ul>
@@ -117,15 +142,16 @@
     <li id="fUdExirVnunbwslPSko8" class="app__column flex-order-0">
      <h2>Column fUdExirVnunbwslPSko8</h2>
      <form method="post"
-       action-xhr="https://us-central1-greenlight-49aab.cloudfunctions.net/api/board//column/fUdExirVnunbwslPSko8/card/">
+       action-xhr="https://us-central1-greenlight-49aab.cloudfunctions.net/api/board/qMDGHBv2yxKqJsi8zWNV/column/fUdExirVnunbwslPSko8/card/">
        <input type="submit" value="+ card">
      </form>
      <ul>
+        <li id="jQBx21N899stpG1gfFfI" class="app__card flex-order-0">jQBx21N899stpG1gfFfI</li>
       </ul>
     </li>
     <li class="app__column flex-order-max}}">
       <form method="post"
-        action-xhr="https://us-central1-greenlight-49aab.cloudfunctions.net/api/board/qMDGHBv2yxKqJsi8zWNV/column/">
+        action-xhr="https://us-central1-greenlight-49aab.cloudfunctions.net/api/board//column/">
         <input type="submit" value="+ column">
       </form>
     </li>
