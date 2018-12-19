@@ -78,11 +78,14 @@ const app_functions = {
             Object.assign(
               a[1],
               {
+                boardId: doc.id,
                 columnId: a[0],
                 cards:
                   Object.entries(a[1].cards).map(b =>
                     Object.assign(
                       {
+                        boardId: doc.id,
+                        columnId: a[0],
                         cardId: b[0]
                       },
                       b[1]
@@ -176,7 +179,7 @@ const app_functions = {
 
 // cors stuff
 app.use((req, res, next) => {
-  res.header("Access-Control-Allow-Origin", "https://scoutr-4c091.firebaseapp.com");
+  res.header("Access-Control-Allow-Origin", "https://yggilabs.github.io");
   res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
   res.header("Access-Control-Allow-Credentials", "true");
   res.header("AMP-Access-Control-Allow-Source-Origin", req.query.__amp_source_origin);
