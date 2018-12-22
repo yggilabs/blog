@@ -132,7 +132,15 @@ tags: [story-rich, gm-less, television]
 <li><em>(producer)</em> <strong>The Plan / The Action</strong> — The producer then performs the option not chosen in step 5</li>
 <li><em>(writer)</em> <strong>The Detail</strong> — choose the <em>Detail</em> for <em>The Plan</em>. Record on <em>The Scene</em>.</li>
 <li><em>(director)</em> <strong>The Position</strong> — Make an <a href="#engagement-roll">Engagement Roll</a> (1). If <em>The Action</em> is one of your hype actions, You may establish how the action helps or hinders your chances to instead make an <a href="#engagement-roll">Engagement Roll</a> (2).</li>
-<li><em>(director)</em> <strong>The Scene</strong> — Play out <a href="#the-scene">The Scene</a>.</li>
+<li><em>(director)</em> <strong>The Scene</strong> — Play out <a href="#the-scene">The Scene</a>.
+<ol>
+<li>If your position is <em>Risky</em>, what are you about to lose? If your position is <em>Desperate</em>, what did you already lose? Record on <em>The Scene</em>.</li>
+<li><a href="#choosing-a-location">Choose a location</a>. Record on <em>The Scene</em>.</li>
+<li>Describe what the camera sees in the moments before the scene unfolds.</li>
+<li><a href="#choosing-extra">Choose extras</a>. Record on <em>The Scene</em>. Assign each role to a Player. Players may have more than one 	role. Players always play their own character.</li>
+<li>Find out what happens. If your position is <em>Desperate</em>, turn <em>The Scene</em> <a href="#when-things-go-sideways">sideways</a>.</li>
+</ol>
+</li>
 <li><em>(director)</em> <strong>Next Time…</strong> — If <em>The Snag</em> was placed next to <a href="#when-that-thing-happens-that-changes-everything">The After</a>, place it on top and give a quick preview of what might happen.</li>
 <li><em>(all)</em> <strong>pass</strong> — Everyone with a role card passes it one player to the right.</li>
 </ol>
@@ -245,29 +253,39 @@ tags: [story-rich, gm-less, television]
 <li>Crazy things happen in the real world. Crazier things happen in an imaginary world. Perhaps some fundamental assumption you made about the world is just wrong. Maybe death isn’t so final or maybe you aren’t as good at killing as you thought.</li>
 </ul>
 <h2 id="examples">Examples</h2>
-<h4 id="example-pitch"><em>example pitch</em></h4>
+<h3 id="example-pitch"><em>example pitch</em></h3>
 <p><img src="https://yggilabs.github.io/blog/images/examples/pitch.JPG" alt="example pitch"></p>
-<h4 id="example-actions"><em>example actions</em></h4>
+<h3 id="example-actions"><em>example actions</em></h3>
 <p><img src="https://yggilabs.github.io/blog/images/examples/actions.JPG" alt="example actions"></p>
-<h4 id="example-plans"><em>example plans</em></h4>
+<h3 id="example-plans"><em>example plans</em></h3>
 <p><img src="https://yggilabs.github.io/blog/images/examples/plans.JPG" alt="example plans"></p>
-<h4 id="example-focus"><em>example focus</em></h4>
+<h3 id="example-focus"><em>example focus</em></h3>
 <p><img src="https://yggilabs.github.io/blog/images/examples/focus.JPG" alt="example focus"></p>
-<h4 id="example-snag"><em>example snag</em></h4>
+<h3 id="example-snag"><em>example snag</em></h3>
 <p><img src="https://yggilabs.github.io/blog/images/examples/snag.JPG" alt="example snag"></p>
-<h4 id="example-character"><em>example character</em></h4>
+<h3 id="example-character"><em>example character</em></h3>
 <p><img src="https://yggilabs.github.io/blog/images/examples/character.JPG" alt="example character"></p>
-<h4 id="example-agenda"><em>example agenda</em></h4>
+<h3 id="example-agenda"><em>example agenda</em></h3>
 <p><img src="https://yggilabs.github.io/blog/images/examples/objective.JPG" alt="example agent"></p>
-<h4 id="example-scene"><em>example scene</em></h4>
+<h3 id="example-scene"><em>example scene</em></h3>
 <p><img src="https://yggilabs.github.io/blog/images/examples/scene.JPG" alt="example scene"></p>
-<h4 id="example-cast"><em>example cast</em></h4>
+<h3 id="example-cast"><em>example cast</em></h3>
 <p><img src="https://yggilabs.github.io/blog/images/examples/cast.JPG" alt="example cast"></p>
-<h4 id="example-location"><em>example location</em></h4>
+<h3 id="example-location"><em>example location</em></h3>
 <p><img src="https://yggilabs.github.io/blog/images/examples/location.JPG" alt="example location"></p>
+<h2 id="gallery">Gallery</h2>
+<p><img src="https://yggilabs.github.io/blog/images/gallery/actual-play-1.jpg" alt="actual play 1"></p>
+<p><img src="https://yggilabs.github.io/blog/images/gallery/actual-play-2.jpg" alt="actual play 2"></p>
 <h2 id="acknowledgements">Acknowledgements</h2>
 <p>If you are familiar with the works of Jason Morningstar’s <a href="http://bullypulpitgames.com/games/fiasco/">Fiasco</a>, Ben Robbins’ <a href="http://www.lamemage.com/microscope/">Microscope</a> or, John Harper’s <a href="http://www.bladesinthedark.com/">Blades in the Dark</a>, you you will surely notice the huge impact they have had on this project. Without these works and the works of many others, this project would not be the same. My most sincere thanks to all those who have inspired me!</p>
 <p>A very special thanks to my playtesters!</p>
+<ul>
+<li>Dexter Hendricks,</li>
+<li>Nick Winters</li>
+<li>Cam Beman</li>
+<li>Min Lee</li>
+<li>Back Dang</li>
+</ul>
 <h2 id="legal-stuff">Legal Stuff</h2>
 <p>Greenlight was created by Samuel Kelley.</p>
 <p>This work is licensed under a <a href="http://creativecommons.org/licenses/by-nc/4.0/">Creative Commons Attribution-NonCommercial 4.0 International License</a>.</p>
