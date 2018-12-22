@@ -138,6 +138,9 @@ const app_functions = {
             error(500, "no access set")
         )
   },
+  "signup": (email) => db.collection("signups").doc(email).set({
+    created: db.FieldValue.serverTimestamp()
+  }),
   "create": {
     "card": (boardId, columnId) =>
       db.collection("boards").doc(boardId).update(
@@ -204,6 +207,16 @@ app.use((req, res, next) => {
   // authenitcate here and add user field to req with appropriate id
   next();
 });
+
+
+const { check, validationResult } = require('express-validator/check');
+
+app.post('/signup/',[check('email_address').isEmail().normalizeEmail()], (req, res) =>
+  !validationResult(req).isEmpty() ?
+    res.status(422).json({errors: validationResult(req).array()}) :
+    app_functions.signup(req.body.email_address)
+      .then(doc =>
+        res.send("")));
 
 app.post('/board/', (req, res) =>
   app_functions.create.board()
