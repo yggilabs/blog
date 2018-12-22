@@ -13,8 +13,8 @@ tags: [story-rich, gm-less, television]
 <h2 id="the-basics">The Basics</h2>
 <h3 id="what-youll-need">What you’ll Need</h3>
 <ul>
-<li>A bunch of note cards. (just bring the whole pack)</li>
-<li>Some other human beings. A few or more but, less than lots.</li>
+<li>A bunch of note cards. (just bring a whole pack)</li>
+<li>Some other human beings. A few or more but, less than lots. (3-5 for people who like numbers)</li>
 <li>Writing utensils. Enough to share.</li>
 <li>A handful of entropy. (coins or dice work)</li>
 </ul>
@@ -44,10 +44,10 @@ tags: [story-rich, gm-less, television]
 <h2 id="the-season">The Season</h2>
 <ol>
 <li>Create <a href="#the-pitch">The Pitch</a>.</li>
-<li>Repeat <a href="#the-shoot">The Shoot</a> until everyone has had a chance to try out all the roles at least once.</li>
+<li>Repeat <a href="#the-shoot">The Shoot</a> until everyone has had a chance to try out all the roles a couple times.</li>
 <li>Do <a href="#the-break">The Break</a>.</li>
 <li>Do <a href="#the-twist">The Twist</a>.</li>
-<li>Repeat <a href="#the-shoot">The Shoot</a> until everyone has had a chance to try out all the roles at least once.</li>
+<li>Repeat <a href="#the-shoot">The Shoot</a> until everyone has had a chance to try out all the roles a couple times.</li>
 <li>Do <a href="#the-wrap">The Wrap</a>.</li>
 </ol>
 <h2 id="the-pitch">The Pitch</h2>
@@ -191,6 +191,9 @@ tags: [story-rich, gm-less, television]
 </ul>
 </blockquote>
 <h2 id="the-wrap">The Wrap</h2>
+<blockquote>
+<p>This is all weird in play so ignore the other rules, just give everyone an opportunity to say something about a scene that happens to their character to tie things together. This could be a flashback before the season, an addition scene in the unknown part or the current season or scene that happens between this season and next.</p>
+</blockquote>
 <p>Count the number of sideways scenes you have, this is your score.</p>
 <p>If you have higher score than any other player,</p>
 <blockquote>
