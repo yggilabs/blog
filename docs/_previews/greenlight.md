@@ -52,7 +52,7 @@ tags: [story-rich, gm-less, television]
 </ol>
 <h2 id="the-pitch">The Pitch</h2>
 <blockquote>
-<p>There probably needs to be some preliminary discussion here to get people on the same page. Talk about expectations of tone and have a brief discussion about what media you find interesting and why. This is primarily a game about television but draw from any media — movies, comics, books, music, paintings are all fair game.</p>
+<p>WIP Note: There probably needs to be some preliminary discussion here to get people on the same page. Talk about expectations of tone and have a brief discussion about what media you find interesting and why. This is primarily a game about television but draw from any media — movies, comics, books, music, paintings are all fair game.</p>
 </blockquote>
 <p>Grab a new card as <em>The Pitch</em>.</p>
 <ol>
@@ -166,7 +166,7 @@ tags: [story-rich, gm-less, television]
 <p>Create crew cards for the following roles: Producer, Director, Writer. Just write the roles on some blank cards. Grab extra blank cards for each player above three. Shuffle all the cards and deal them out.</p>
 <h2 id="the-twist">The Twist</h2>
 <blockquote>
-<p>WIP — skip for now.</p>
+<p>WIP Note: skip this whole section for now.</p>
 </blockquote>
 <p>For each sideways scene a player has, they may do one of the following:</p>
 <ul>
@@ -186,7 +186,7 @@ tags: [story-rich, gm-less, television]
 </blockquote>
 <h2 id="the-wrap">The Wrap</h2>
 <blockquote>
-<p>This is all weird in play so ignore the other rules, just give everyone an opportunity to say something about a scene that happens to their character to tie things together. This could be a flashback before the season, an addition scene in the unknown part or the current season or scene that happens between this season and next.</p>
+<p>WIP Note: This is all weird in play so ignore the other rules, just give everyone an opportunity to say something about a scene that happens to their character to tie things together. This could be a flashback before the season, an addition scene in the unknown part or the current season or scene that happens between this season and next.</p>
 </blockquote>
 <p>Count the number of sideways scenes you have, this is your score.</p>
 <p>If you have higher score than any other player,</p>
