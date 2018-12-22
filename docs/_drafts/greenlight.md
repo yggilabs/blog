@@ -51,6 +51,9 @@ tags: [story-rich, gm-less, television]
 <li>Do <a href="#the-wrap">The Wrap</a>.</li>
 </ol>
 <h2 id="the-pitch">The Pitch</h2>
+<blockquote>
+<p>There probably needs to be some preliminary discussion here to get people on the same page. Talk about expectations of tone and have a brief discussion about what media you find interesting and why. This is primarily a game about television but draw from any media — movies, comics, books, music, paintings are all fair game.</p>
+</blockquote>
 <p>Grab a new card as <em>The Pitch</em>.</p>
 <ol>
 <li>Together, create a single line pitching the show. Record on <em>The Pitch</em>.</li>
