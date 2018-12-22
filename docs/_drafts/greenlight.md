@@ -284,7 +284,7 @@ tags: [story-rich, gm-less, television]
 <li>Nick Winters</li>
 <li>Cam Beman</li>
 <li>Min Lee</li>
-<li>Back Dang</li>
+<li>Bach Dang</li>
 </ul>
 <h2 id="legal-stuff">Legal Stuff</h2>
 <p>Greenlight was created by Samuel Kelley.</p>
