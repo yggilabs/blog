@@ -154,10 +154,10 @@ tags: [story-rich, gm-less, television]
 </ol>
 <p>See <a href="#example-scene">example</a></p>
 <h3 id="choosing-extras">Choosing Extras</h3>
-<p>If you need a character that doesn’t already belong to player, you have two options. Take one or<a href="#creating-an-extra">make one</a>.</p>
+<p>If you need a character that doesn’t already belong to player, you have two options. Take one or <a href="#creating-an-extra">make one</a>.</p>
 <p>See <a href="#example-cast">example</a></p>
 <h3 id="choosing-a-location">Choosing a Location</h3>
-<p>If you need a location, you have two options. Take one or<a href="#creating-a-location">make one</a>.</p>
+<p>If you need a location, you have two options. Take one or <a href="#creating-a-location">make one</a>.</p>
 <p>See <a href="#example-location">example</a></p>
 <h2 id="the-break">The Break</h2>
 <ol>
