@@ -132,7 +132,7 @@ tags: [story-rich, gm-less, television]
 <li><em>(producer)</em> <strong>The Plan / The Action</strong> — The producer then performs the option not chosen in step 5</li>
 <li><em>(writer)</em> <strong>The Detail</strong> — choose the <em>Detail</em> for <em>The Plan</em>. Record on <em>The Scene</em>.</li>
 <li><em>(director)</em> <strong>The Position</strong> — Make an <a href="#engagement-roll">Engagement Roll</a> (1). If <em>The Action</em> is one of your hype actions, You may establish how the action helps or hinders your chances to instead make an <a href="#engagement-roll">Engagement Roll</a> (2).</li>
-<li><em>(director)</em> <strong>The Scene</strong> — Play out <a href="#the-scene">The Scene</a>.
+<li><em>(director)</em> <strong>The Scene</strong> — Play out <a href="#the-scene">The Scene</a>. See <a href="#example-scene">example</a>
 <ol>
 <li>If your position is <em>Risky</em>, what are you about to lose? If your position is <em>Desperate</em>, what did you already lose? Record on <em>The Scene</em>.</li>
 <li><a href="#choosing-a-location">Choose a location</a>. Record on <em>The Scene</em>.</li>
@@ -144,15 +144,6 @@ tags: [story-rich, gm-less, television]
 <li><em>(director)</em> <strong>Next Time…</strong> — If <em>The Snag</em> was placed next to <a href="#when-that-thing-happens-that-changes-everything">The After</a>, place it on top and give a quick preview of what might happen.</li>
 <li><em>(all)</em> <strong>pass</strong> — Everyone with a role card passes it one player to the right.</li>
 </ol>
-<h3 id="the-scene">The Scene</h3>
-<ol>
-<li>If your position is <em>Risky</em>, what are you about to lose? If your position is <em>Desperate</em>, what did you already lose? Record on <em>The Scene</em>.</li>
-<li><a href="#choosing-a-location">Choose a location</a>. Record on <em>The Scene</em>.</li>
-<li>Describe what the camera sees in the moments before the scene unfolds.</li>
-<li><a href="#choosing-extra">Choose extras</a>. Record on <em>The Scene</em>. Assign each role to a Player. Players may have more than one role. Players always play their own character.</li>
-<li>Find out what happens. If your position is <em>Desperate</em>, turn <em>The Scene</em> <a href="#when-things-go-sideways">sideways</a>.</li>
-</ol>
-<p>See <a href="#example-scene">example</a></p>
 <h3 id="choosing-extras">Choosing Extras</h3>
 <p>If you need a character that doesn’t already belong to player, you have two options. Take one or <a href="#creating-an-extra">make one</a>.</p>
 <p>See <a href="#example-cast">example</a></p>
