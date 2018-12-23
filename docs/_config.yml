@@ -1,4 +1,4 @@
-introduction: This is the home of YggiGames. Here you will find the results of tinkering with, hacking and creating various games. Some of what you find here may even be tested. Enjoy!
+﻿introduction: This is the home of YggiGames. Here you will find the results of tinkering with, hacking and creating various games. Some of what you find here may even be tested. Enjoy!
 footer: Made with ☕ in Minneapolis. &copy;2018  Sam Kelley
 
 # manifest file stuff
@@ -41,7 +41,7 @@ logo: /images/icon.svg
 permalink: none
 analytics: false # url parameters are acting wierd
 collections:
-  previews:
+  products:
     output: true
 plugins:
   - jekyll-seo-tag

@@ -4,11 +4,5 @@
   --colors__dark: #555962;
 }
 
-{% if layout.katex %}
-@import "katex";
-{% endif %}
-{% if layout.mermaid %}
-@import "mermaid";
-{% endif %}
 @import "layout";
 @import "theme";
