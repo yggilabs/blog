@@ -1,0 +1,45 @@
+{% capture jargon %}
+## Jargon
+*Domain specific, ambiguous or vague terms*
+
+graph
+: A structure that contains related objects. For our purpose the objects contained are vertices or sub-graphs.
+
+sub-graph
+: A graph contained in another graph.
+
+vertex
+ : An object contained in a graph
+
+edge
+ : A relationship between two vertices
+
+relationship
+ : A set of edges connecting two vertices. The order of a relationship is the minimum number of edges required to connect the vertices
+
+journey
+ : A player created graph. Represents an agent's path through the context
+
+agent
+ : An object in the shared imagination space which players may directly control. Also a vertex in the context.
+
+shared imagination space
+ : The continuous interpolation of the context
+
+context
+ : The discrete state of the shared imagination space.
+
+natural language
+ : A thing that alters the shared imagination space.
+
+move
+ : A thing that alters the context.
+
+layer
+ : A labeled sub-graph of the context. All vertices in a layer share the label as an implicit relationship.
+
+Obstacle
+ : A vertex used to split a single unresolved edge into two unresolved edges.
+
+ {% endcapture %}
+ {{ jargon | markdownify }}

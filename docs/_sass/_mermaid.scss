@@ -1,0 +1,301 @@
+.mermaid svg * {
+    font-family: Lato,Helvetica Neue,Helvetica,sans-serif
+}
+
+.mermaid .mermaid .label {
+    color: #333
+}
+
+.mermaid .node circle,.mermaid .node ellipse,.mermaid .node polygon,.mermaid .node rect {
+    fill: #eee;
+    stroke: #999;
+    stroke-width: 1px
+}
+
+.mermaid .node.clickable {
+    cursor: pointer
+}
+
+.mermaid .arrowheadPath {
+    fill: #333
+}
+
+.mermaid .edgePath .path {
+    stroke: #666;
+    stroke-width: 1.5px
+}
+
+.mermaid .edgeLabel {
+    background-color: #fff
+}
+
+.mermaid .cluster rect {
+    fill: #eaf2fb!important;
+    stroke: #26a!important;
+    stroke-width: 1px!important
+}
+
+.mermaid .cluster text {
+    fill: #333
+}
+
+.mermaid div.mermaidTooltip {
+    position: absolute;
+    text-align: center;
+    max-width: 200px;
+    padding: 2px;
+    font-family: trebuchet ms,verdana,arial;
+    font-size: 12px;
+    background: #eaf2fb;
+    border: 1px solid #26a;
+    border-radius: 2px;
+    pointer-events: none;
+    z-index: 100
+}
+
+.mermaid .actor {
+    stroke: #999;
+    fill: #eee
+}
+
+.mermaid text.actor {
+    fill: #333;
+    stroke: none
+}
+
+.mermaid .actor-line {
+    stroke: #666
+}
+
+.mermaid .messageLine0 {
+    marker-end: "url(#arrowhead)"
+}
+
+.mermaid .messageLine0,.mermaid .messageLine1 {
+    stroke-width: 1.5;
+    stroke-dasharray: "2 2";
+    stroke: #333
+}
+
+.mermaid #arrowhead {
+    fill: #333
+}
+
+.mermaid #crosshead path {
+    fill: #333!important;
+    stroke: #333!important
+}
+
+.mermaid .messageText {
+    fill: #333;
+    stroke: none
+}
+
+.mermaid .labelBox {
+    stroke: #999;
+    fill: #eee
+}
+
+.mermaid .labelText,.mermaid .loopText {
+    fill: #fff;
+    stroke: none
+}
+
+.mermaid .loopLine {
+    stroke-width: 2;
+    stroke-dasharray: "2 2";
+    marker-end: "url(#arrowhead)";
+    stroke: #999
+}
+
+.mermaid .note {
+    stroke: #770;
+    fill: #ffa
+}
+
+.mermaid .noteText {
+    fill: #000;
+    stroke: none;
+    font-family: trebuchet ms,verdana,arial;
+    font-size: 14px
+}
+
+.mermaid .section {
+    stroke: none;
+    opacity: .2
+}
+
+.mermaid .section0,.mermaid .section2 {
+    fill: #80b3e6
+}
+
+.mermaid .section1,.mermaid .section3 {
+    fill: #fff;
+    opacity: .2
+}
+
+.mermaid .sectionTitle0,.mermaid .sectionTitle1,.mermaid .sectionTitle2,.mermaid .sectionTitle3 {
+    fill: #333
+}
+
+.mermaid .sectionTitle {
+    text-anchor: start;
+    font-size: 11px
+}
+
+.mermaid .grid .tick {
+    stroke: #e6e6e6;
+    opacity: .3;
+    shape-rendering: crispEdges
+}
+
+.mermaid .grid path {
+    stroke-width: 0
+}
+
+.mermaid .today {
+    fill: none;
+    stroke: #d42;
+    stroke-width: 2px
+}
+
+.mermaid .task {
+    stroke-width: 2
+}
+
+.mermaid .taskText {
+    text-anchor: middle;
+    font-size: 11px
+}
+
+.mermaid .taskTextOutsideRight {
+    fill: #333;
+    text-anchor: start;
+    font-size: 11px
+}
+
+.mermaid .taskTextOutsideLeft {
+    fill: #333;
+    text-anchor: end;
+    font-size: 11px
+}
+
+.mermaid .taskText0,.mermaid .taskText1,.mermaid .taskText2,.mermaid .taskText3 {
+    fill: #fff
+}
+
+.mermaid .task0,.mermaid .task1,.mermaid .task2,.mermaid .task3 {
+    fill: #26a;
+    stroke: #1a4d80
+}
+
+.mermaid .taskTextOutside0,.mermaid .taskTextOutside1,.mermaid .taskTextOutside2,.mermaid .taskTextOutside3 {
+    fill: #333
+}
+
+.mermaid .active0,.mermaid .active1,.mermaid .active2,.mermaid .active3 {
+    fill: #eee;
+    stroke: #1a4d80
+}
+
+.mermaid .activeText0,.mermaid .activeText1,.mermaid .activeText2,.mermaid .activeText3 {
+    fill: #333!important
+}
+
+.mermaid .done0,.mermaid .done1,.mermaid .done2,.mermaid .done3 {
+    stroke: #666;
+    fill: #bbb;
+    stroke-width: 2
+}
+
+.mermaid .doneText0,.mermaid .doneText1,.mermaid .doneText2,.mermaid .doneText3 {
+    fill: #333!important
+}
+
+.mermaid .crit0,.mermaid .crit1,.mermaid .crit2,.mermaid .crit3 {
+    stroke: #b1361b;
+    fill: #d42;
+    stroke-width: 2
+}
+
+.mermaid .activeCrit0,.mermaid .activeCrit1,.mermaid .activeCrit2,.mermaid .activeCrit3 {
+    stroke: #b1361b;
+    fill: #eee;
+    stroke-width: 2
+}
+
+.mermaid .doneCrit0,.mermaid .doneCrit1,.mermaid .doneCrit2,.mermaid .doneCrit3 {
+    stroke: #b1361b;
+    fill: #bbb;
+    stroke-width: 2;
+    cursor: pointer;
+    shape-rendering: crispEdges
+}
+
+.mermaid .activeCritText0,.mermaid .activeCritText1,.mermaid .activeCritText2,.mermaid .activeCritText3,.mermaid .doneCritText0,.mermaid .doneCritText1,.mermaid .doneCritText2,.mermaid .doneCritText3 {
+    fill: #333!important
+}
+
+.mermaid .titleText {
+    text-anchor: middle;
+    font-size: 18px;
+    fill: #333
+}
+
+.mermaid g.classGroup text {
+    fill: #999;
+    stroke: none;
+    font-family: trebuchet ms,verdana,arial;
+    font-size: 10px
+}
+
+.mermaid g.classGroup rect {
+    fill: #eee;
+    stroke: #999
+}
+
+.mermaid g.classGroup line {
+    stroke: #999;
+    stroke-width: 1
+}
+
+.mermaid .classLabel .box {
+    stroke: none;
+    stroke-width: 0;
+    fill: #eee;
+    opacity: .5
+}
+
+.mermaid .classLabel .label {
+    fill: #999;
+    font-size: 10px
+}
+
+.mermaid .relation {
+    stroke: #999;
+    stroke-width: 1;
+    fill: none
+}
+
+.mermaid #compositionEnd,.mermaid #compositionStart {
+    fill: #999;
+    stroke: #999;
+    stroke-width: 1
+}
+
+.mermaid #aggregationEnd,.mermaid #aggregationStart {
+    fill: #eee;
+    stroke: #999;
+    stroke-width: 1
+}
+
+.mermaid #dependencyEnd,.mermaid #dependencyStart,.mermaid #extensionEnd,.mermaid #extensionStart {
+    fill: #999;
+    stroke: #999;
+    stroke-width: 1
+}
+
+.mermaid .branch-label,.mermaid .commit-id,.mermaid .commit-msg {
+    fill: #d3d3d3;
+    color: #d3d3d3
+}
